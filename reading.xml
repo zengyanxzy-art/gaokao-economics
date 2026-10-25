@@ -6,7 +6,57 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 01:11:56 GMT</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 01:15:56 GMT</lastBuildDate>
+<item>
+<title>社会背景与逐级升学决策：教育转衔模型的基准</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-mare-1980-school-continuation</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:mare-1980-school-continuation:84218b6fd0eabeea4ca7d6c4ebb7af20960533b98576c3f2582cbc269d3227cd:2026-10-25T01:15:56.175Z</guid>
+<pubDate>Sun, 25 Oct 2026 01:15:56 GMT</pubDate>
+<description>社会背景与逐级升学决策：教育转衔模型的基准 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-10-25T01:15:56.175Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-mare-1980-school-continuation&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;越往上读，家庭背景就越不重要吗？&lt;/h3&gt;
+&lt;p&gt;研究大学生时，我们看到的已经是走过许多关口的人。那些更早离开学校的人，不会再出现在大学入学、大学毕业的比较中。因此，较高阶段中不同家庭背景者的升学差距较小，未必就意味着家庭资源已经不重要。&lt;/p&gt;
+&lt;p&gt;这次读的是Robert D. Mare在1977年发表的机构工作稿《Social Background and School Continuation Decisions》。同名研究后来发表于1980年的期刊，但本次没有核读正式排版，以下发现只按1977稿说明。它研究的是美国历史白人男性样本，不能直接代表今天中国的教育机会。&lt;/p&gt;
+&lt;p&gt;作者把上学看成连续的关口。研究能否进入大学时，先在已经完成高中的人中看谁继续；研究能否大学毕业时，再在已经进入大学的人中比较。这样做，可以把差距形成的位置分得更清楚，也能提醒我们，每一关比较的人已经发生变化。&lt;/p&gt;
+&lt;p&gt;工作稿的一张表里，高中毕业者中继续就读大学的比例为54.9%，而全体分析人群中就读大学的比例为39.8%。两个数字来自同一份资料，只是分母不同，不能读成大学参与率从前一个时期降到了后一个时期。&lt;/p&gt;
+&lt;p&gt;沿着这些关口看，作者发现，家庭收入、父亲教育等指标的关联，在若干较早阶段更强。但这并非所有家庭指标都一步步减弱，更不能解释为给家庭增加一笔收入，就会产生表中相应的升学改善。它们是控制其他背景变量后的统计关联。&lt;/p&gt;
+&lt;p&gt;作者认为，选择性流失是理解这一变化的重要线索。较早退出学校的人并非随机退出；能到达后面关口的弱势家庭学生，可能已经在学习表现等条件上更经过筛选。到大学阶段再看，他们和早期那一大群学生便不能直接当作同一个比较对象。&lt;/p&gt;
+&lt;p&gt;作者还用退伍军人资料中的军方能力测试AFQT作补充分析，结果与这种解释相容。不过，测试发生在大部分教育完成以后，分数本身也可能受教育影响。加上这份资料只覆盖特定军人群体，它无法证明所有关联变化都来自先前筛选，也不能当成已经干净地控制了早期能力。&lt;/p&gt;
+&lt;p&gt;比较不同阶段，还要看家庭资源是在什么时候测量的。工作稿中的家庭收入和父亲职业，指向受访者16岁时的情况。这些记录离中学阶段较近，离童年和大学阶段较远。用它们解释不同年龄的升学，系数差异可能混入测量适配程度的差异。统计关联变弱，本身无法告诉我们究竟有多少来自选择、测量或者资源作用变化；研究笔记中也另行核查了相关分解的适用边界。&lt;/p&gt;
+&lt;p&gt;最后一关连指标含义也要查。工作稿把就读第17学年作为大学后教育的指标，却承认有些人可能只是在读较长的本科课程。改看第18学年后，原先为负的收入项接近零且不显著。因此，不能从原来的负数推导出“低收入更有利于读研究生”。&lt;/p&gt;
+&lt;p&gt;研究中国的教育机会，也需要保留高中之前、高考报名、考试、录取及院校专业去向各关口的人群，并尽量让家庭资源与考试前表现的记录对应到各个升学关口。既看谁最后留下，也看谁在哪一步离开，才能更准确地理解家庭差距在哪里形成、又怎样延续。&lt;/p&gt;
+&lt;p&gt;来源为Mare，1977年11月，威斯康星大学贫困研究所DP 462-77。完整样本、模型、附录核查和页码见同篇研究笔记。&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;逐级升学怎样改变家庭背景的比较？——Mare的1977年工作稿&lt;/h3&gt;
+&lt;p&gt;家庭背景与升学的关联，可能随着教育阶段而变化。Mare把最终学历拆成连续的升学决策，发现若干家庭资源指标的关联在较早阶段更强。但到达不同关口的人已经不同，测量条件也不同；这些系数可以描述逐关差距，不能直接当成家庭资源因果作用随年龄衰减的证据。&lt;/p&gt;
+&lt;p&gt;本次完整阅读Robert D. Mare，*Social Background and School Continuation Decisions*，威斯康星大学贫困研究所讨论稿DP 462-77，1977年11月。&lt;a href=&quot;https://www.irp.wisc.edu/publications/dps/pdfs/dp46277.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;机构全文&lt;/a&gt;共58个PDF页，前3页为封面、题名和摘要，随后对应印刷1–55页。书目中1980年JASA同名论文为后续发表线索，本次未取得其正式排版；下述表号、数字和附录判断均只针对1977稿，不宣称两版逐字或逐表相同。&lt;/p&gt;
+&lt;h4&gt;人群与逐关分母&lt;/h4&gt;
+&lt;p&gt;主资料是1973年Occupational Changes in a Generation（OCG）调查。原文概述调查覆盖约33500名美国男性，目标为20–65岁的非机构居住平民男性；表2–4的分析表注进一步限定为1907–1951年出生的白人男性。调查总规模不等于每一个模型的估计人数。&lt;/p&gt;
+&lt;p&gt;作者构造六个二元转衔，分别是完成第8学年、完成8年后就读第9年、就读9年后完成12年、完成12年后就读13年、就读13年后完成16年、完成16年后就读17年。它们涉及当时美国小学、中学、大学及大学后教育，不能与今天中国学段机械对照。前一个关口限定了后一个关口的人群；对全体人口直接估计“能否上大学”，会把高中之前和高中之后的差距混在一起。&lt;/p&gt;
+&lt;p&gt;仍在读、尚未完成下一次转衔者被排除。为降低计算成本，表4前四关分别随机抽取约25%、25%、50%、50%的可用记录，后两关使用全部可用记录，因此模型N不必随关口递减。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;转衔&lt;/th&gt;&lt;th&gt;表4估计N&lt;/th&gt;&lt;th&gt;使用比例&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;0→8&lt;/td&gt;&lt;td&gt;5368&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;8→9&lt;/td&gt;&lt;td&gt;5009&lt;/td&gt;&lt;td&gt;25%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;9→12&lt;/td&gt;&lt;td&gt;9301&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12→13&lt;/td&gt;&lt;td&gt;7732&lt;/td&gt;&lt;td&gt;50%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;13→16&lt;/td&gt;&lt;td&gt;7674&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;16→17&lt;/td&gt;&lt;td&gt;4185&lt;/td&gt;&lt;td&gt;100%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;表3同时展示两种分母：高中毕业者占全体分析人群的72.5%，就读大学者占39.8%；高中毕业者中继续就读大学的比例为54.9%。这是一份历史混合样本中的总体比例与条件比例，不能读成大学参与率随时间下降。&lt;/p&gt;
+&lt;h4&gt;模型与主要结果&lt;/h4&gt;
+&lt;p&gt;式(1.1)逐关估计log[p/(1−p)]＝阶段截距＋各背景变量的线性项，以最大似然估计系数。p为已进入该关口人群的继续概率。模型纳入父母教育、父亲职业地位、家庭收入、兄弟姐妹数、父母缺席、农场背景和南方出生。采用logit有助于把平均继续率与条件关联分开表达，但并不自动赋予跨关比较相同的因果含义。&lt;/p&gt;
+&lt;p&gt;收入以受访者16岁时的家庭年收入衡量，单位是以1967年价格计的千美元；父亲职业也按16岁时测量。父母教育按完成学年计。表4每项第二列为系数除以标准误的比值，不是标准误本身；原文按简单随机抽样解释其渐近检验，不能称已经充分处理复杂抽样。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;表4变量及关口&lt;/th&gt;&lt;th&gt;logit系数b&lt;/th&gt;&lt;th&gt;b/SE&lt;/th&gt;&lt;th&gt;exp(b)，即优势比&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;家庭收入，0→8&lt;/td&gt;&lt;td&gt;0.1067&lt;/td&gt;&lt;td&gt;5.36&lt;/td&gt;&lt;td&gt;1.113&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;家庭收入，12→13&lt;/td&gt;&lt;td&gt;0.0444&lt;/td&gt;&lt;td&gt;9.24&lt;/td&gt;&lt;td&gt;1.045&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;父亲教育，0→8&lt;/td&gt;&lt;td&gt;0.1188&lt;/td&gt;&lt;td&gt;4.79&lt;/td&gt;&lt;td&gt;1.126&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;父亲教育，12→13&lt;/td&gt;&lt;td&gt;0.0420&lt;/td&gt;&lt;td&gt;4.47&lt;/td&gt;&lt;td&gt;1.043&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;在控制表中其他背景变量后，收入每高1000美元（以1967年价格计），对应完成第8年的成功优势约高11.3%，对高中毕业后就读大学的优势约高4.5%。这里的优势是p/(1−p)，不等于成功概率；不能把前一个结果写成概率高11.3个百分点，更不能写成给家庭1000美元就会产生这一改善。&lt;/p&gt;
+&lt;p&gt;这组结果支持部分背景关联随阶段减弱，但并非所有指标逐关单调下降。母亲教育和职业地位都有例外。表4的拟合度指标由0.270降至0.008，附录B把它定义为相对预测误差的减少；它不是普通最小二乘R²，也不表示家庭只解释了不到1%的机会不平等。&lt;/p&gt;
+&lt;h4&gt;选择解释的证据与限制&lt;/h4&gt;
+&lt;p&gt;作者的解释是，较早离开学校的人并非随机退出。后期仍在学的弱势家庭子女，在某些有利于继续升学的条件上更经过筛选，家庭背景与这些条件之间的关联因而可能改变。这不意味着所有背景分布都会变窄：表2中父亲职业地位的标准差从23.3增至25.7，收入标准差也上升。选择怎样改变关联，取决于原分布和变量之间的关系。&lt;/p&gt;
+&lt;p&gt;作者用1964年退伍军人调查补充考察AFQT测试分数。表1、5表注限定为1930–1946年出生的白人男性退伍军人，各关N从1889到248。表5不含AFQT时，父亲教育系数由最早关口的0.1917降至12→13关口的0.1139；加入AFQT后，两者为0.1007和0.1039。这与作者的选择解释相容，却未把选择所占份额单独识别出来。&lt;/p&gt;
+&lt;p&gt;作者明确承认AFQT在大部分教育完成后才测量，既可能受此前教育影响，也未必能准确代表早期能力。退伍军人样本还缺少家庭收入、母亲教育等变量，且不能像OCG一样准确区分就读与完成。不能把这个比较当作教育前能力得到充分控制，或把加入AFQT后的系数变化解释成已识别的因果中介。&lt;/p&gt;
+&lt;p&gt;最后一个关口尤其需要谨慎。表4收入项为−0.0110，b/SE为−2.44；但就读第17年未必已经进入研究生教育。原文52页脚注4把终点改为第18年后，收入项近零且不显著。因此，本文不支持概括性的“低收入促进读研”判断。&lt;/p&gt;
+&lt;p&gt;表5部分职业地位系数的小数位还存在待核疑点，本次没有擅自补零或据此作精细量级比较。&lt;/p&gt;
+&lt;h4&gt;附录A的推导核查&lt;/h4&gt;
+&lt;p&gt;工作稿式(2.4)及附录A试图把线性遗漏变量公式用于logit，将约化背景系数写成“直接系数＋背景对中间变量的斜率×中间变量系数”。本次不把它作为一般logit的精确分解。下面是我们为核查该普遍用法构造的反例，完全不是原文样本。&lt;/p&gt;
+&lt;p&gt;令X在−1和1之间等概率取值，独立扰动V在−2和2之间等概率取值，Q＝X＋V，并设条件成功概率为expit(0.5X＋Q)，其中expit(z)＝1/(1＋exp(−z))。线性遗漏变量公式给出的X系数为0.5＋1×1＝1.5。&lt;/p&gt;
+&lt;p&gt;然而，先对V求平均，X＝1时的成功概率约为0.674114，X＝−1时为0.325886。由于X只有两个取值，带截距的边际logit可精确拟合这两个概率，其斜率等于两组logit之差除以2，约为0.726853，并非1.5。这个差异来自先平均概率再取logit与直接作线性分解的区别，与有限样本误差无关。&lt;/p&gt;
+&lt;p&gt;因此，选择性流失可以作为解释逐关关联变化的重要线索，但不能凭这一通用分解宣称机制已被分离和量化。上述核查不否定表4作为描述性估计的意义，也不评价未读的1980正式版是否作过修订。&lt;/p&gt;
+&lt;h4&gt;对高考研究的用法&lt;/h4&gt;
+&lt;p&gt;逐关方法要求保留进入高中、参加高考报名、参加考试、被录取及进入不同院校专业的适格人群。只在大学在校生中比较家庭背景，会遗漏前面已经退出的人；只报总体录取比例，又难以定位差距在哪一关形成。应同时报告总体到达率、条件转衔率及明确分母的概率差。&lt;/p&gt;
+&lt;p&gt;背景测量也应与关口对齐，尽量连接不同时期的家庭收入、教育资源和考试前表现，而非用某一年的收入代表整个成长过程。若要评估扩招、资助或录取改革的因果效果，还需要另外的识别设计。这些是本项目的研究建议，不是把美国历史白人男性样本的系数移植为中国政策效果。&lt;/p&gt;
+&lt;h4&gt;证据定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;工作稿印刷页&lt;/th&gt;&lt;th&gt;PDF物理页&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;关口、人群、变量与式(1.1)&lt;/td&gt;&lt;td&gt;4–11&lt;/td&gt;&lt;td&gt;7–14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;选择解释与式(2.1)–(2.4)&lt;/td&gt;&lt;td&gt;14–22&lt;/td&gt;&lt;td&gt;17–25&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AFQT与背景关系，表1&lt;/td&gt;&lt;td&gt;20&lt;/td&gt;&lt;td&gt;23&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;背景分布、总体与条件比例，表2–3&lt;/td&gt;&lt;td&gt;26–27&lt;/td&gt;&lt;td&gt;29–30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OCG六关估计，表4&lt;/td&gt;&lt;td&gt;30&lt;/td&gt;&lt;td&gt;33&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;AFQT比较、测量限制，表5及讨论&lt;/td&gt;&lt;td&gt;35–39&lt;/td&gt;&lt;td&gt;38–42&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;遗漏变量推导、拟合度定义&lt;/td&gt;&lt;td&gt;44–50&lt;/td&gt;&lt;td&gt;47–53；附录A、B&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;在读排除、抽样与17/18年敏感性&lt;/td&gt;&lt;td&gt;51–52&lt;/td&gt;&lt;td&gt;54–55；脚注3–4&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;本次读完该工作稿全部正文、两附录、脚注和参考文献，视觉核对5张表及主要公式。未重估OCG或退伍军人微观数据，未逐篇追读引用文献；自拟反例只作代数核查。正式版的版本差异、小数位疑点与机制识别范围仍保留上述边界。&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>教育扩张中的最大限度维持不平等</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-072</link>
