@@ -6,7 +6,58 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 01:14:39 GMT</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 01:16:06 GMT</lastBuildDate>
+<item>
+<title>中国高等教育、绩优选拔与不平等 · 第6章：绩优选拔、教育机会与社会分层（部分阅读）</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-stratification</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:bib-058-stratification:7a9b5e091894846efcb7e08f796166244eeb73f5371a73e436d305970e696ff2:2026-11-04T01:16:06.329Z</guid>
+<pubDate>Wed, 04 Nov 2026 01:16:06 GMT</pubDate>
+<description>中国高等教育、绩优选拔与不平等 · 第6章：绩优选拔、教育机会与社会分层（部分阅读） · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-04T01:16:06.329Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-stratification&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;高分与精英大学联系紧，就能说明机会公平吗？&lt;/h3&gt;
+&lt;p&gt;分数与录取去向相关，是理解大学机会的一部分。Ye Liu在2016年著作第6章里，还问了另一个问题：不同家庭和学校条件，是否也与这些分数相关？只有把两边接起来，才更接近讨论整个选拔过程。本次读完这一章，整本书仍属部分阅读。&lt;/p&gt;
+&lt;p&gt;作者使用2007年在安徽、浙江八所大学调查所得的858份学生问卷。她先分析哪些背景与达到较高高考成绩门槛相关，再把成绩和背景放进另一个模型，比较学生是否就读985或211院校。这些人已经进入大学，因此，第二项比较是大学生内部去了哪类学校，并不是全体考生有没有大学可上。&lt;/p&gt;
+&lt;p&gt;按作者的报告，高考表现与精英院校去向的联系较强；加入父母教育、地理和中学类型后，一些职业背景系数发生变化。作者据此强调，成绩能够参与分配机会，并不意味着获得成绩以前的条件已经平等。父母能提供什么支持，学生能进入什么中学，所在地区有什么教育资源，都可以成为继续研究的问题。&lt;/p&gt;
+&lt;p&gt;不过，“继续研究”与“已经证明”之间，还需要把方法走完。原书把某些系数在加入其他特征后变小，解释为背景优势通过成绩或学校传递。在这种模型里，加入特征后，系数的刻度本身也可能变化，不能只看变小了多少，就说某个渠道解释了几成差距。即使处理了刻度，仍要有更明确的时间顺序和比较条件，才能判断因果过程。&lt;/p&gt;
+&lt;p&gt;控制成绩或父母教育，也不意味着家庭条件的影响被全部拿掉了。如果家庭本来就参与了成绩形成，那么给定成绩之后的比较，只回答了后面一段分配问题。较小的职业系数，不能直接解释成家庭资源不重要；哪种变量“更重要”，也不能仅靠显著性星号的多少来排名。&lt;/p&gt;
+&lt;p&gt;采用本章结果，还有两处数字问题需要说明。表6.2列出的样本职业份额合计100%，但一般人口那一列合计110.1%，原文没有解释是否存在重叠或汇总问题。本次不能把它当作已经对齐的群体构成，更不能据此计算某类家庭孩子的升学概率。&lt;/p&gt;
+&lt;p&gt;回归表里，部分系数、标准误和显著性星号也不能顺畅对应。有些没有星号的项，按表列标准误作通常检查，会得到不同的判断。我们没有原始数据来确定该改哪一项，因此保留原数并指出冲突，不把“没有星号”直接写成“没有优势”。具体位置、数值和计算条件都放在同篇研究笔记里。&lt;/p&gt;
+&lt;p&gt;这些问题没有取消本章提出的问题，却限制了答案的精确程度。调查中的学生都已入学，缺少没走到高考、落选或录取后未入学的人；一般职业人口，也不天然等同于这批学生对应的父母人口。只看门内的构成，不能独自还原所有人的机会。&lt;/p&gt;
+&lt;p&gt;章末还把选拔联系到社会优势的正当化，以及弱势群体怎样看待自己的能力。这些是作者的制度解释，本章没有相应的信念测量或政策比较来逐项验证。它们可以引出新的问题，尚不能作为调查已经证实的社会后果。&lt;/p&gt;
+&lt;p&gt;因此，“成绩与精英院校联系紧”仍然值得关注，但还须继续问：成绩在什么条件下形成，志愿和名额怎样把成绩转成去向，哪些人在调查开始以前就已离开竞争？把考试前经历、成绩、实际选择、录取与入学连起来，并补上未入学者，才能更完整地讨论机会是否公平。&lt;/p&gt;
+&lt;p&gt;文献：Ye Liu（2016），第6章，印刷105—124页，&lt;a href=&quot;https://doi.org/10.1007/978-981-10-1588-5_6&quot; rel=&quot;noopener noreferrer&quot;&gt;章 DOI&lt;/a&gt;。&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;家庭背景与大学去向，调查证据说明了什么？&lt;/h3&gt;
+&lt;h4&gt;文献与范围&lt;/h4&gt;
+&lt;p&gt;Ye Liu（2016），Higher Education, Meritocracy and Inequality in China，第6章“Meritocracy, Education Opportunities and Social Stratification”，Springer Singapore，印刷105—124页，&lt;a href=&quot;https://doi.org/10.1007/978-981-10-1588-5_6&quot; rel=&quot;noopener noreferrer&quot;&gt;章 DOI&lt;/a&gt;，首次在线2016年10月9日。本次完整阅读出版方整书PDF物理117—136页，共20页，核全部四表；本章没有编号图。全书已读第1—6章，第7—10章尚未精读，整书仍为部分阅读。&lt;/p&gt;
+&lt;p&gt;第5章提出背景、成绩与去向的研究框架，本章开始呈现调查结果。作者报告高考表现与进入精英院校联系较强，部分背景系数在加入父母教育、地理与中学类型后改变，并据此讨论文化选择性与机会条件。我们的采用较有限：本章给出了值得考察的关联，但原表的报告不一致和样本边界，阻止我们直接沿用其显著性判断、变量强弱排序或因果中介结论。&lt;/p&gt;
+&lt;h4&gt;理论提出了什么待验问题&lt;/h4&gt;
+&lt;p&gt;106—110页把教育扩张与分层联系起来，综述MMI和EMI及其修改。本章重视的区别是：进入某一教育层级的机会增加，与得到该层级内更好学校或专业的机会，未必同向改变。&lt;/p&gt;
+&lt;p&gt;与已读MMI原文相连，饱和条件需要落实到具体优势群体及教育关口。本章转述的80%参与率，不能作为所有制度通用的判定阈值。EMI原论文本次没有另行取得精读，只采用本章对质量差异的转述，不把二手概括写成已独立核准的原作者命题。&lt;/p&gt;
+&lt;p&gt;更关键的是，MMI涉及扩张过程中群体机会怎样变化，而本章只有一个调查时点。作者在123页也承认缺少跨期社会构成资料，难以评估理论预言的变化或时滞。因此，截面群体差别可以与理论对话，不能单独证明中国扩张的时序机制。&lt;/p&gt;
+&lt;h4&gt;调查对象、变量和比较组&lt;/h4&gt;
+&lt;p&gt;资料沿用2007年在安徽、浙江八所大学开展的一年级学生调查，前章最终使用858份问卷。表6.3五个模型、表6.4六个模型均列N＝858。受访者已进入大学，没有覆盖全体适龄人口、高考申请者或未入学者；两省是学校所在地，不是对所有考生生源范围的统一说明。&lt;/p&gt;
+&lt;p&gt;社会经济背景先按十类职业划分，再合成五组：干部与管理、企业主与个体户、专业与文职、工人、农业及失业/就业不足。回归表将专业与文职的合并组简写为“Professionals”，职业参考组标为农业/农民家庭。由于未取得微观编码，正文合并定义与表中简称的衔接仍应保留。&lt;/p&gt;
+&lt;p&gt;父母教育取两人中较高者，并把党校学历计入高教组，不能当成母亲或父亲教育的单独效果。文字列四级教育，但回归表参考组写“less than schooling level”，又另列“less than secondary schooling”；两者与四级定义的对应不够清楚，本篇不擅自把参考组译成完全没有上过学。&lt;/p&gt;
+&lt;p&gt;地理变量为出生地城市、县城、农村迁移和村庄，回归基准为农村。中学分重点/示范、普通、未注册三类，基准为未注册学校。于是，表中的重点学校系数首先比较的是重点与未注册学校，不能直接写成相对普通学校的效应；重点与普通的差别还需相应对比及协方差。&lt;/p&gt;
+&lt;p&gt;作者分别建立两个二元logit模型：表6.3以达到最高成绩门槛为1、较低门槛为0；119页大体写为750分中超过560分，又说文理门槛略有差别，未充分交代分省分科的统一编码。表6.4则以就读985/211为1、非精英院校为0。这里估计的是已入学样本内部的成绩和院校类型关联，不是全体考生能否上大学的模型；本章也没有报告专业去向模型。&lt;/p&gt;
+&lt;h4&gt;原表报告了怎样的关联&lt;/h4&gt;
+&lt;p&gt;模型逐步加入职业、父母教育、性别、地理与中学类型；院校模型另加入高考成绩。下面保存关键表值，不将它们重新包装为已复现结果。括号栏为原表标注的标准误，系数为对数优势尺度，并非百分点或概率比。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;结果表与模型&lt;/th&gt;&lt;th&gt;指标与原表参照组&lt;/th&gt;&lt;th&gt;系数&lt;/th&gt;&lt;th&gt;标准误&lt;/th&gt;&lt;th&gt;原表星号&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;表6.3，M1&lt;/td&gt;&lt;td&gt;专业组／农业家庭&lt;/td&gt;&lt;td&gt;1.722&lt;/td&gt;&lt;td&gt;0.039&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.3，M5&lt;/td&gt;&lt;td&gt;专业组／农业家庭&lt;/td&gt;&lt;td&gt;0.290&lt;/td&gt;&lt;td&gt;0.049&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.3，M5&lt;/td&gt;&lt;td&gt;父母高教／表列最低教育组&lt;/td&gt;&lt;td&gt;0.772&lt;/td&gt;&lt;td&gt;0.199&lt;/td&gt;&lt;td&gt;&lt;code&gt;*&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.3，M5&lt;/td&gt;&lt;td&gt;重点学校／未注册学校&lt;/td&gt;&lt;td&gt;1.791&lt;/td&gt;&lt;td&gt;0.304&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.4，M4&lt;/td&gt;&lt;td&gt;最高成绩门槛／较低门槛&lt;/td&gt;&lt;td&gt;1.883&lt;/td&gt;&lt;td&gt;0.095&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.4，M6&lt;/td&gt;&lt;td&gt;最高成绩门槛／较低门槛&lt;/td&gt;&lt;td&gt;1.561&lt;/td&gt;&lt;td&gt;0.003&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.4，M6&lt;/td&gt;&lt;td&gt;城市／农村&lt;/td&gt;&lt;td&gt;1.210&lt;/td&gt;&lt;td&gt;0.015&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;表6.4，M6&lt;/td&gt;&lt;td&gt;重点学校／未注册学校&lt;/td&gt;&lt;td&gt;1.566&lt;/td&gt;&lt;td&gt;0.023&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;原表星号说明为：&lt;code&gt;*&lt;/code&gt; p＜0.10，&lt;code&gt;&lt;strong&gt;&lt;/code&gt; p＜0.05，&lt;code&gt;&lt;/strong&gt;*&lt;/code&gt; p＜0.001；各列N均858。表6.3中职业组系数随控制项改变，作者据此强调父母教育和人口特征；表6.4所列成绩、城市及重点学校系数为正，作者将其与精英院校机会相连。这些是原报告中的模式，不能仅凭星号多少宣布哪种背景“更重要”。&lt;/p&gt;
+&lt;p&gt;即使表值准确，也要保持尺度区别。例如，若1.561确是logit系数，指数化约为4.76，表示特定比较下的优势比，仍不是录取概率提高156.1%，也不是概率变为4.76倍。本次只用这一换算说明单位，不把它当作独立验证的政策参数；原表的可靠性问题见下节。&lt;/p&gt;
+&lt;h4&gt;哪些报告问题影响采用&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;系数、标准误与星号不能直接对齐。&lt;/strong&gt; 表6.3的M1企业/个体户组为0.574、标准误0.094，却没有星号；若按通常双侧Wald校验，系数除以标准误约6.11，与无显著性标记不一致。M5专业组0.290、标准误0.049也无星号，类似问题还见于表6.4。这里的计算只是检查报告能否相互解释，不是重新估计真实p值。它不足以判断到底应改系数、标准误、星号还是检验说明；因此，本篇不补造置信区间，也不照抄“无星号便无优势”的结论。完整模型数据与协方差未取得。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;全国职业构成的比较基数未对齐。&lt;/strong&gt; 表6.2的样本职业份额合计100%，但“人口”列九项合计110.1%。原表没有解释这些比例的重叠、归类或汇总方式，不能当作已校准的互斥构成，也不能自行归一化来修表。此外，一般职业人口与调查学生的父母对应人口并不是天然相同的分母。原表专业组18.4%对6.3%、农业组39.2%对50.4%可作为作者报告的构成对照，不能由此得出各阶层的个人升学概率或录取优势比。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;重点学校测量带有结果依赖。&lt;/strong&gt; 115页及表6.1按1952—2002年向北大、苏大输送学生的累计人数排列高中，以前3000所对两校学生来源的较大贡献，推测这些学校多为重点/示范学校。3000除以2002年高中总数15406约为19.5%，只是数量换算，不是全国重点学校身份的独立验证；学校规模、存续时间和录取去向本身都可能影响排序。该构造怎样与调查中的中学身份匹配，仍欠明确说明。表6.1北大“Top7000”一格还印为1000，本篇不将其直接读成百分比，也不自行改成100。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系数降低不等于已经识别中介。&lt;/strong&gt; 作者把加入成绩、地理与学校后职业系数变化解释为“经由”这些因素传递。在logit中，不同设定的系数尺度也会改变，不能把降幅直接归为中介比例；相关方法问题见&lt;a href=&quot;https://doi.org/10.1177/0081175012444861&quot; rel=&quot;noopener noreferrer&quot;&gt;Karlson、Holm与Breen（2012）的原论文说明&lt;/a&gt;。本次只局部核对该方法问题，没有另行全文精读或运行分解。即使解决尺度，因果中介还需要额外识别条件。父母教育、学校和分数也可能是家庭影响形成的渠道，纳入控制后剩下的职业系数，不代表家庭背景的总作用。&lt;/p&gt;
+&lt;p&gt;表6.3注明部分结果转载自&lt;a href=&quot;https://www.tandfonline.com/doi/full/10.1080/01425692.2013.816237&quot; rel=&quot;noopener noreferrer&quot;&gt;Liu（2013）同一研究&lt;/a&gt;。本次核对了出版方与机构书目身份，未取得其完整原表作版本对校，不宣称修复了书表。其期刊版与本章所用调查相连，尚未独立完成版本对校。&lt;/p&gt;
+&lt;h4&gt;作者解释与本项目判断&lt;/h4&gt;
+&lt;p&gt;作者强调，成绩在精英院校分配中起作用，并不证明取得这些成绩的条件已经平等。她进一步讨论地理和学校分层，以及低教育、农村家庭在早期教育过程中的筛选。这个区分有启发，但本调查只看到已入学者，无法独自量出前面究竟筛掉多少人，更不能识别统一高考制度相对于另一种制度的净效果。ITT和参与者平均效果均不适用于这里的截面关联。&lt;/p&gt;
+&lt;p&gt;章末又把结果延伸到政治动机、优势的正当化和弱势群体对自己能力的判断。它们属于作者的制度解释：本章没有相应的动机比较、信念测量或政策反事实，不作为调查已经证实的社会后果。&lt;/p&gt;
+&lt;p&gt;对本项目，可以保留“成绩形成”与“成绩转为去向”两步问题，同时连接考试前背景、中学经历、按省年科类定义的成绩、志愿、录取与入学。要研究背景通过哪些过程作用，须有明确时序和适当识别；要评价分层变化，还需补足未入学者和多队列资料。本篇提出的是待检验设计，不给原表争议数字附上更强的结论。&lt;/p&gt;
+&lt;h4&gt;定位与实际覆盖&lt;/h4&gt;
+&lt;p&gt;本章全书PDF物理页＝印刷页＋12。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;印刷页／全书PDF页&lt;/th&gt;&lt;th&gt;证据身份&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;MMI/EMI与中国制度背景&lt;/td&gt;&lt;td&gt;105—112／117—124&lt;/td&gt;&lt;td&gt;理论与二手文献；非新时序检验&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;职业、父母教育、地理与学校编码&lt;/td&gt;&lt;td&gt;113—116／125—128&lt;/td&gt;&lt;td&gt;测量定义，参照组及分类衔接须限定&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高中来源、表6.1&lt;/td&gt;&lt;td&gt;115／127&lt;/td&gt;&lt;td&gt;录取结果排序及学校数推算，非身份验证&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;职业构成、表6.2&lt;/td&gt;&lt;td&gt;117／129&lt;/td&gt;&lt;td&gt;样本与人口构成，人口合计问题已列&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;最高成绩门槛、表6.3 M1—M5&lt;/td&gt;&lt;td&gt;118—120／130—132&lt;/td&gt;&lt;td&gt;N858，logit条件关联；报告一致性待核&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;精英院校、表6.4 M1—M6&lt;/td&gt;&lt;td&gt;120—122／132—134&lt;/td&gt;&lt;td&gt;N858，跨页表已核；非制度效果或因果中介&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;讨论与结论&lt;/td&gt;&lt;td&gt;122—124／134—136&lt;/td&gt;&lt;td&gt;作者解释，动机与信念后果未直接检验&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;本次读完本章20页，辅助研究只按具名问题局部查读；未重估问卷数据、重建人口序列或逐篇追读引文。&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>中国高等教育、绩优选拔与不平等 · 第5章：高考与绩优选拔的研究框架（部分阅读）</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-gaokao</link>
