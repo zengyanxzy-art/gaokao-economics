@@ -6,7 +6,53 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 04 Nov 2026 01:16:06 GMT</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 01:11:18 GMT</lastBuildDate>
+<item>
+<title>中国高等教育、绩优选拔与不平等 · 第7章：绩优选拔与文化资本（部分阅读）</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-cultural-capital</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:bib-058-cultural-capital:df1541c1d63dd26bfdf08b08c584b60d1f4aab2c414e1ed0851b2c6208c56119:2026-11-05T01:11:18.714Z</guid>
+<pubDate>Thu, 05 Nov 2026 01:11:18 GMT</pubDate>
+<description>中国高等教育、绩优选拔与不平等 · 第7章：绩优选拔与文化资本（部分阅读） · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-05T01:11:18.714Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-cultural-capital&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;多读书、看展览，能换来怎样的升学机会？&lt;/h3&gt;
+&lt;p&gt;谈到家庭怎样影响升学，人们往往先想到补课费和父母学历。Ye Liu在2016年这本书的第7章追问了另一层条件：家里有什么书和文化物品，孩子能接触哪些文化活动，这些经历是否与高考成绩、大学和专业去向有关？&lt;/p&gt;
+&lt;p&gt;这属于“文化资本”的问题。一本书摆在家里，孩子是否读过、怎样理解和运用，是不同的事。文化经验可能帮助学习，也可能影响一个人熟悉哪些学校、对哪些专业有信心。不过，有这样的解释思路，还需要具体证据来检验。&lt;/p&gt;
+&lt;p&gt;作者沿用2007年的调查：安徽、浙江八所大学的858名一年级学生。问卷询问家庭文化物品和高三最后一年的文化活动，再与成绩及大学去向联系起来。需要先记住，受访者都已进入大学；那些没有上大学的人，未进入这组比较。两省也是学校所在地，不能据此认定所有受访考生都来自两省。&lt;/p&gt;
+&lt;p&gt;描述表显示，样本中的文化条件确实不同。城市组文化活动指标均值为11.14，农村组为4.02；父母教育较高的组，两个文化指标也较高。但这个活动指标的范围是0到16，原文没有充分交代怎样计分，不能把这些数说成每周去几次、花几小时。表中也没有给出分组的不确定性。它能告诉我们调查记录了差别，还不能告诉我们多参加一次活动会怎样改变成绩。&lt;/p&gt;
+&lt;p&gt;作者继续用回归分析，认为文化物品和活动没有呈现持续而强的影响，父母教育、城乡与学校条件更值得注意。这里必须把结论收紧。核对原表后，可以看到有的系数、标准误和显著性星号无法相互解释。两张分别讨论不同专业方向的表，解释变量的系数和标准误竟逐项相同，结果变量又缺少清楚的编码说明。我们无法凭这些表可靠地判断，文化活动究竟更有利于哪个方向，或者某类家庭为什么偏向理工科。&lt;/p&gt;
+&lt;p&gt;这种情况下，不能读成“文化资本对高考没用”。没有可靠地检出某种关系，与证实它不存在，是两回事。家庭藏书和参观活动也只覆盖文化条件的一部分；测量比较粗、只看已入学者，都可能让一些过程难以观察。反过来，组间均值有差别，也不证明给孩子增加文化消费就能带来录取优势。&lt;/p&gt;
+&lt;p&gt;作者还提出一个历史解释：父母一代经历的教育与家庭文化传承中断，可能改变了优势的代际延续。这提示研究者，不能假设文化经验在所有年代都以同样方式传递。但本章没有比较不同历史暴露队列来识别这种机制，因此它仍是解释假说，不能当作调查已经测出的历史冲击效果。&lt;/p&gt;
+&lt;p&gt;本章留下的研究问题很具体：家庭条件怎样参与成绩形成，又怎样帮助学生把成绩转成选择？要进一步回答，最好在考试前记录阅读和文化接触，清楚说明指标，跟踪志愿信息、费用、实际可选学校及录取，并把未入学者纳入观察。最终去了哪个专业，不能单独告诉我们学生原本最想学什么，更不能代表个人未来收益。&lt;/p&gt;
+&lt;p&gt;本次读完第7章125—147页及全部五表，相关报告疑点见研究笔记。全书已读第1—7章，第8—10章未读，仍为部分阅读。&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;家庭文化条件怎样进入成绩与升学选择？&lt;/h3&gt;
+&lt;h4&gt;文献与阅读范围&lt;/h4&gt;
+&lt;p&gt;Ye Liu（2016），Higher Education, Meritocracy and Inequality in China，第7章“Meritocracy and Cultural Capital”，Springer Singapore，印刷125—147页，&lt;a href=&quot;https://doi.org/10.1007/978-981-10-1588-5_7&quot; rel=&quot;noopener noreferrer&quot;&gt;章 DOI&lt;/a&gt;，首次在线2016年10月9日。本次完整读出版方整书PDF物理137—159页，共23页，逐一核对表7.1—7.5；本章没有编号图。全书第1—7章已分次精读，第8—10章尚未精读，整书仍为部分阅读。&lt;/p&gt;
+&lt;p&gt;接续第6章的家庭背景与院校分层，本章进一步问：家庭的文化条件，是与高考成绩相关，还是与成绩之后的大学、专业选择相关？作者认为，家庭文化物品和活动并未显示持续而强的作用，父母教育、城乡及学校条件仍值得重视。我们的采用需要更谨慎：描述表呈现明确的组间差别，但模型的编码缺口和报告冲突，使“作用不显著”“某群体更会选择”等结论尚不能直接成立。&lt;/p&gt;
+&lt;h4&gt;理论问题与实际测量&lt;/h4&gt;
+&lt;p&gt;125—131页对照Bourdieu的文化再生产与Boudon对教育分支选择的解释。需要分别考察成绩形成，以及给定教育阶段之后如何选择。这里是理论组织，并没有估计家庭背景的“首要效应”和“次要效应”各占多少，也没有识别两种理论的因果贡献。&lt;/p&gt;
+&lt;p&gt;本章在讨论当代操作化时列出具身、客观化和信息资本。它与Bourdieu经典三分法不能直接等同：后者第三项为制度化文化资本，教育资格是其例子，见&lt;a href=&quot;https://web.stanford.edu/~eckert/Courses/ParisPapers/Bourdieu1986.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;《资本的形式》文化资本段落&lt;/a&gt;。本次只查该定义，没有另计为全文精读。&lt;/p&gt;
+&lt;p&gt;135—136页的实测主要为家庭文化物品，如书、唱片、乐器与画作，以及参观博物馆、音乐会等活动。正文说活动回顾高三最后一年，还提到阅读和课外辅导；表7.1的列标题则列博物馆、音乐会、美术馆、电影院，二者覆盖并不完全相同。表中物品指标的可能和观察范围均为1—6，活动均为0—16，但缺少足以重建指数的题项编码、聚合及单位说明。因此，下文按原表指标尺度读，不把5.85解释成5.85本书，也不把13.10改写为每周13.10小时。&lt;/p&gt;
+&lt;p&gt;资料沿用2007年安徽、浙江八所大学的一年级学生调查，858份问卷；调查框架详见第5章笔记。两省是大学所在地，不能一概当作考生生源范围。本章的量化模型仍限已入学学生，没有未入学者作比较。它没有呈现可据以核验选择机制的独立访谈分析，不能将全书访谈总数当成本章某种机制已获验证。&lt;/p&gt;
+&lt;h4&gt;描述差别与模型报告&lt;/h4&gt;
+&lt;p&gt;表7.1没有列分组人数、标准误或置信区间。它说明样本中两个指标怎样分布，不能直接衡量文化活动的效果。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;表7.1分组&lt;/th&gt;&lt;th&gt;文化物品指标均值，1—6尺度&lt;/th&gt;&lt;th&gt;文化活动指标均值，0—16尺度&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;父母高等教育&lt;/td&gt;&lt;td&gt;5.85&lt;/td&gt;&lt;td&gt;13.10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;父母低于初等教育&lt;/td&gt;&lt;td&gt;1.57&lt;/td&gt;&lt;td&gt;2.42&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;管理阶层&lt;/td&gt;&lt;td&gt;5.20&lt;/td&gt;&lt;td&gt;12.41&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;农业家庭&lt;/td&gt;&lt;td&gt;2.49&lt;/td&gt;&lt;td&gt;2.90&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;城市&lt;/td&gt;&lt;td&gt;5.36&lt;/td&gt;&lt;td&gt;11.14&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;农村&lt;/td&gt;&lt;td&gt;3.08&lt;/td&gt;&lt;td&gt;4.02&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;高教育、城市等组的报告均值较高。作者说性别差别并不很显著，但表中没有对应检验，不能由此宣布统计等同，也不能从均值差别推出因果方向。&lt;/p&gt;
+&lt;p&gt;表7.2建立高分二元logit，六列均N＝858。138页写高于550分记1、低于425分记0，未解释425—550分如何处理；N又始终为858。不能自行补成“中段已删除”或“全体其余人都为0”。这也不同于第6章所述超过560分的门槛，跨章不宜拼成同一个精确定义。省、科类之间的成绩可比化仍未充分说明。&lt;/p&gt;
+&lt;p&gt;表7.3建立精英院校二元logit，七列均N＝858，985/211院校为1，非精英为0，另纳入高考表现。两个模型的学校基准均标普通中学，区别于第6章的未注册学校。系数为对数优势尺度，不能读成概率百分点；原文写log(Y)是公式表述不完整，按正文的对数优势说明理解，而不据此断定实际程序计算了二元Y的对数。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;表、模型&lt;/th&gt;&lt;th&gt;变量及参照&lt;/th&gt;&lt;th&gt;系数&lt;/th&gt;&lt;th&gt;原表标准误&lt;/th&gt;&lt;th&gt;原表星号&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;7.2，M1&lt;/td&gt;&lt;td&gt;父母高教／表列最低教育组&lt;/td&gt;&lt;td&gt;1.677&lt;/td&gt;&lt;td&gt;0.362&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.2，M6&lt;/td&gt;&lt;td&gt;父母高教／同上&lt;/td&gt;&lt;td&gt;0.207&lt;/td&gt;&lt;td&gt;0.352&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.2，M3&lt;/td&gt;&lt;td&gt;文化活动，每一原指标单位&lt;/td&gt;&lt;td&gt;0.408&lt;/td&gt;&lt;td&gt;0.105&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.2，M6&lt;/td&gt;&lt;td&gt;重点／普通中学&lt;/td&gt;&lt;td&gt;1.485&lt;/td&gt;&lt;td&gt;0.304&lt;/td&gt;&lt;td&gt;&lt;code&gt;**&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.3，M3&lt;/td&gt;&lt;td&gt;文化活动，每一原指标单位&lt;/td&gt;&lt;td&gt;1.655&lt;/td&gt;&lt;td&gt;0.559&lt;/td&gt;&lt;td&gt;&lt;code&gt;**&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.3，M4&lt;/td&gt;&lt;td&gt;文化活动，每一原指标单位&lt;/td&gt;&lt;td&gt;0.651&lt;/td&gt;&lt;td&gt;0.431&lt;/td&gt;&lt;td&gt;无&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.3，M7&lt;/td&gt;&lt;td&gt;城市／农村&lt;/td&gt;&lt;td&gt;1.161&lt;/td&gt;&lt;td&gt;0.236&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;7.3，M7&lt;/td&gt;&lt;td&gt;重点／普通中学&lt;/td&gt;&lt;td&gt;1.782&lt;/td&gt;&lt;td&gt;0.508&lt;/td&gt;&lt;td&gt;&lt;code&gt;***&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;这两表的星号说明为&lt;code&gt;*&lt;/code&gt; p＜0.10、&lt;code&gt;&lt;strong&gt;&lt;/code&gt; p＜0.05、&lt;code&gt;&lt;/strong&gt;*&lt;/code&gt; p＜0.001。作者据系数和星号变化，讨论父母教育、成绩与社会人口特征之间的联系。但是，报告本身存在障碍，不能把表中的某一列直接当作可靠的净效果。&lt;/p&gt;
+&lt;h4&gt;哪些问题改变结论的可信范围&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;标准误与星号不能直接对齐。&lt;/strong&gt; 表7.2的文化活动0.408除以0.105约3.89，却无星号；表7.3 M7高考表现1.109除以0.464约2.39，却标&lt;code&gt;***&lt;/code&gt;。按通常双侧正态Wald条件，分别约对应p＝0.00010和0.017，与表注不符。这只是报告一致性检查，不是原模型的重新估计，不能据此选择应修哪一栏或补造置信区间。表7.2管理阶层M5还直接印成“−0.1.005”，视觉核验确认不是文字提取造成；本篇不将它擅改成可运算数字。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;专业去向两表不能支持精细比较。&lt;/strong&gt; 141页说以线性回归研究自然科学与社会科学方向，但没有充分交代Y的数值编码。表7.4列自然科学、医学、工程与技术，N＝455；表7.5列经济、教育、历史、语言和文学，N＝403。两者合计858，却没有清楚说明各子样本内的结果变量究竟怎样定义。它们不能直接读成全体858人选择某方向的概率模型，表列Eta平方也没有明确是何种变体。&lt;/p&gt;
+&lt;p&gt;更严重的是，表7.4与7.5中所有非截距解释变量的B和括号标准误在两模型内完全相同，包括文化活动M2的0.663（0.412）、城市0.569（0.369）、男性−0.548（0.253），只有部分Eta平方等栏不同。不能视为两个方向的独立相互印证。专业表星号标准又改为&lt;code&gt;*&lt;/code&gt; p＜0.05、&lt;code&gt;&lt;strong&gt;&lt;/code&gt; p＜0.01、&lt;code&gt;&lt;/strong&gt;*&lt;/code&gt; p＜0.001，其中若干系数与标准误仍难对应标记。正文说男性更倾向自然科学，但负系数与未明Y编码使方向无法复核；144页又说加入人口特征后文化资本系数降低，表中活动却从0.118变为0.663。故本篇不采用“弱势家庭选择理工以避开文化竞争”或“文化活动促使人文选择”的实证结论。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;系数改变不能识别中介。&lt;/strong&gt; 加入成绩后文化活动系数降低，既可能涉及共享信息、遗漏因素或样本选择，也涉及非线性模型的尺度变化。不能把降幅直接解释为成绩承担了多少中介作用，相关方法限定见&lt;a href=&quot;https://doi.org/10.1177/0081175012444861&quot; rel=&quot;noopener noreferrer&quot;&gt;Karlson、Holm与Breen（2012）&lt;/a&gt;，仅沿用前次局部核查。这里没有政策分配、随机干预或纵向追踪；ITT、参与者平均效果均不适用。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;历史解释仍是待检验机制。&lt;/strong&gt; 132—134、144—147页以文化大革命期间的教育和家庭文化传承中断解释指标关联较弱，并在144页将父母队列概括为1960—1962年出生。没有呈现不同暴露队列的比较或这一窄队列的详细分布，不能据此估计历史冲击效果。作者把第二轮汉字简化的推出放入文化大革命期间，但&lt;a href=&quot;https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/zhengce/zfwj/zfwj/szfwj/201905/t20190523_71436.html&quot; rel=&quot;noopener noreferrer&quot;&gt;1986年国务院原通知的政府存档&lt;/a&gt;记明草案发表于1977年12月20日；该推出时间应更正。文字字形简化也不能等同于所有语言文化壁垒已经消除。关于改革前城乡平等的概括，本章没有给出足以检验的城乡比较序列，本篇不采用为已证事实。&lt;/p&gt;
+&lt;h4&gt;本项目可以怎样接续&lt;/h4&gt;
+&lt;p&gt;作者提醒我们，家庭文化不能只用静态藏书数量理解，还应考察获得文化经验的历史条件与选择环境。这是本章可保留的问题意识；调查表尚不足以确认她提出的历史机制，也不能得出“文化资本在高考中无用”。父母学历、物品和活动是不同指标，某一个代理变量报告较弱，不意味着整个概念被否定。&lt;/p&gt;
+&lt;p&gt;后续可把家庭教育、早期阅读与文化接触、学校资源、按省年科类可比的成绩、志愿信息、偏好和录取逐步连接。要研究给定成绩后的选择，应记录真实可选集合、费用和家庭信息，而不是只看已入学者的最终专业。最好在考试前测量，纳入未入学者，公开指数构造并先排除回归表的复制与编码问题。以上为研究设想，尚未获得本章因果结果支持。&lt;/p&gt;
+&lt;h4&gt;证据定位与实际覆盖&lt;/h4&gt;
+&lt;p&gt;本章内全书PDF物理页＝印刷页＋12。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;印刷页／全书PDF页&lt;/th&gt;&lt;th&gt;采用边界&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;理论与概念&lt;/td&gt;&lt;td&gt;125—131／137—143&lt;/td&gt;&lt;td&gt;文献组织；未估计首要、次要效应占比&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;政治历史与文化传承&lt;/td&gt;&lt;td&gt;132—134、144—147／144—146、156—159&lt;/td&gt;&lt;td&gt;作者解释；日期局部更正，冲击未识别&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;指标和表7.1&lt;/td&gt;&lt;td&gt;135—136／147—148&lt;/td&gt;&lt;td&gt;原指标均值；单位及聚合不全，无分组不确定性&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;高考高分、表7.2&lt;/td&gt;&lt;td&gt;137—138／149—150&lt;/td&gt;&lt;td&gt;六列N858；中段编码及印刷报告待核&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;精英院校、表7.3&lt;/td&gt;&lt;td&gt;139—141／151—153&lt;/td&gt;&lt;td&gt;七列N858；跨页表已核，非概率或因果中介&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;专业、表7.4—7.5&lt;/td&gt;&lt;td&gt;141—144／153—156&lt;/td&gt;&lt;td&gt;N455与403；重复系数、编码及表文冲突&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;讨论与结论&lt;/td&gt;&lt;td&gt;144—147／156—159&lt;/td&gt;&lt;td&gt;作者解释与我们的采用范围分别说明&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;23页正文及五张表均已读；没有重新估计原始数据，没有独立审稿或真人测试，辅助文献只针对具名问题局部查读。本章没有单列补充附件，第8—10章不计入本次覆盖。&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>中国高等教育、绩优选拔与不平等 · 第6章：绩优选拔、教育机会与社会分层（部分阅读）</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-058-stratification</link>
