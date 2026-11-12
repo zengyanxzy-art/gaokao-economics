@@ -6,7 +6,44 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 01:54:27 GMT</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 01:08:25 GMT</lastBuildDate>
+<item>
+<title>社交媒体信息如何影响中国高考专业选择</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-ma-liu-wu-li-zeng-2026-social-media-major-choice</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:ma-liu-wu-li-zeng-2026-social-media-major-choice:cee5d8b63d62b859c01a26ea707e64aa08f7a2ba5f870252d5177ea61781a807:2026-11-12T01:08:25.852Z</guid>
+<pubDate>Thu, 12 Nov 2026 01:08:25 GMT</pubDate>
+<description>社交媒体信息如何影响中国高考专业选择 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-12T01:08:25.852Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-ma-liu-wu-li-zeng-2026-social-media-major-choice&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;一句“别报这个专业”，能从录取位次看出多大影响？&lt;/h3&gt;
+&lt;p&gt;2023年填志愿前，张雪峰劝一些考生避开新闻传播类专业。这番话广泛传播之后，相关专业的录取位次有没有变化？Ma等人找来2017至2023年的高校录取资料，把录取分数换成各省的高考位次，比较被点名专业和其他专业的变化。&lt;/p&gt;
+&lt;p&gt;先想清楚位次是怎么来的。某专业在一个省的录取末位原来是第2000名，后来到了第2300名，意思是最后一名被录取的考生在省内排得更靠后。这可能与一些靠前的考生改报有关，也可能与学校多招了人、调整了投档口径有关。只凭这两个数字，无法知道有多少人更改过志愿。&lt;/p&gt;
+&lt;p&gt;研究做了两层比较。先看新闻传播类在2023年与此前相比怎样变，再用同一时期其他专业的变化作参照。首选模型还考虑同省同年的共同变化，因为一个省的考生规模和招生环境会随年份变动。按这个方法估计，全样本新闻传播类录取末位的位次数字约增13.1%，双一流高校子样本约增24.7%。这里的百分比说的是位次数字，录取人数和报考人数需要另外的数据才能计算。&lt;/p&gt;
+&lt;p&gt;这样的比较有说服力的一点，是2023年新闻传播类相对其他专业确有明显变化。此前的趋势却并非一直重合。以2022年为参照，2019年也出现过一次统计上可辨认的偏离。研究还拿没有被明确点名的历史、哲学做检查，结果并不完全平静。研究因此为公开发言影响招生结果提供了线索。若同期有别的变化专门影响新闻传播类，比如招生名额或行业预期改变，这些因素仍可能进入估计。&lt;/p&gt;
+&lt;p&gt;作者还发现，被推荐的计算机类在全样本中录取末位有所前移，而新闻传播类往后移的幅度更大。作者将这个差别解释为人们对损失警告反应更强。要验证这种心理机制，需要知道考生看到了什么、信号有多强，还需要比较同一个人怎样理解可比的机会与风险。两类专业原有的就业预期和关注者都可能不同，录取数据没有追踪到这些信息。&lt;/p&gt;
+&lt;p&gt;昨天读的Liu文章谈到，家庭能承受的试错成本不同，因此相同建议可能有不同分量。今天的论文看到的是专业录取末位的相对变化，里面没有每个家庭的收入、求职缓冲或实际观看记录。把这两篇放在一起，接下来值得问的是，在同样的名额和投档条件下，哪类家庭改变了志愿顺序，他们原先对这个专业又有怎样的判断。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-026-47742-w&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊原文&lt;/a&gt; · 研究笔记&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;张雪峰发言之后，新闻传播类录取末位怎样变了？&lt;/h3&gt;
+&lt;h4&gt;文献与研究问题&lt;/h4&gt;
+&lt;p&gt;Lijing Ma、Bo Liu、Yilong Wu、Qingsong Li、Chuanhua Zeng（2026），The effect of social media information on college major choices in China: a difference-in-differences analysis，Scientific Reports 16，文章编号17279，2026年4月14日发表。此次逐页读正式PDF第1至15页，含图1至7、表1至7、公式、参考文献与文末声明。印刷页与物理页同号。数据由作者按合理请求提供，未取得分析数据或代码。 &lt;a href=&quot;https://www.nature.com/articles/s41598-026-47742-w&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊原文&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2023年填报前，张雪峰公开劝退新闻传播类，同时推荐计算机类。作者问，被点名专业的录取位次变化，相对于其他专业的同期变化有多大。与Liu关于家庭风险承受能力的观点文章相比，这项研究有可观察的招生结果，仍缺少家庭实际收到和使用信息的记录。&lt;/p&gt;
+&lt;h4&gt;观察单位、结局与处理&lt;/h4&gt;
+&lt;p&gt;作者从高校招生网站、阳光高考等收集2017至2023年录取分数，按省一分一段表换算位次，按教育部目录归并专业。观察单位是高校、专业类、省、年、科类的组合，主表全样本为3,317,803条招生记录，不能视为同样多的考生。研究的147所双一流子样本在第4页写560,320条，表3与表4写560,620条。笔记保留两个口径，报告具体模型时按表列。&lt;/p&gt;
+&lt;p&gt;第5至6页回归的因变量是最低录取位次的自然对数。这里的“最低”是分数最低的已录取者，其位次数字越大，名次越靠后。第7页描述图另用原始位次除以相应省、年考生总人数，然后取组均值。模型系数与图的归一化均值各有尺度，图上的变化不能直接当成回归百分比。名额扩大、投档口径变化、申请者排序变化等都可能移动末位。&lt;/p&gt;
+&lt;p&gt;作者以2017至2022年为事前、2023年为事后，以新闻传播类为负向信号组，计算机类为正向信号组，交通运输类为探索性溢出组。图4描述性对照包括文学门类其他专业及一组更广的人文社科专业。表3、4主回归报告全样本和双一流子样本，正文按未被点名专业说明比较，未完整列出各回归列的对照构成。表1提供传播背景，图1热度数据覆盖2024年8月至2025年8月，不能当作2023年个人观看量或各省曝光强度。&lt;/p&gt;
+&lt;h4&gt;识别与主要结果&lt;/h4&gt;
+&lt;p&gt;模型1纳入专业类、院校、省、年、科类的固定效应。首选模型2保留专业类和院校固定效应，并加入省×年、省×科类、年×科类固定效应。这样可吸收同省同年各专业共同面对的变化，仍须假定没有同期仅影响被点名专业的其他冲击，对照专业也没有被替代需求显著带动。在有这些条件时，交互项可读作这次公开事件对专业录取末位的相对影响。它属于专业层面的事件效应，未测个体观看与遵从，也没有随机分配，不能报告随机试验的ITT或实际观看者效应。&lt;/p&gt;
+&lt;p&gt;下表依表3第3、4列及表4模型2。系数为对数位次，括号是按省聚类的标准误，百分比用指数变换计算。全样本N为3,317,803，双一流N按表为560,620。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;专业类&lt;/th&gt;&lt;th&gt;全样本&lt;/th&gt;&lt;th&gt;双一流子样本&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;新闻传播&lt;/td&gt;&lt;td&gt;0.123（0.013），位次数字约增13.1%，p＜0.001&lt;/td&gt;&lt;td&gt;0.221（0.018），约增24.7%，p＜0.001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;计算机&lt;/td&gt;&lt;td&gt;−0.067（0.020），位次数字约减6.5%，p＜0.01&lt;/td&gt;&lt;td&gt;−0.182（0.022），约减16.6%，p＜0.001&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;交通运输&lt;/td&gt;&lt;td&gt;−0.059（0.025），位次数字约减5.7%，p＜0.05&lt;/td&gt;&lt;td&gt;−0.064（0.019），约减6.2%，p＜0.01&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;正文将计算机全样本的对数系数近似读为6.7%，这里统一用指数变换。双一流包含在全样本内，两个点估计的差异不能当成已检验的院校组差。作者将交通运输作为探索性溢出，文章也承认选题与团队专业背景有关，故只保留探索性质。&lt;/p&gt;
+&lt;h4&gt;检查能排除什么&lt;/h4&gt;
+&lt;p&gt;图5以2022年为基准，2023年系数0.102，p＜0.001。2019年已有−0.038的偏离，p＝0.017。图4事前原始走势也有起伏。单独看2023年跳升有信息，但不能说所有事前检验都通过，也不能从事前图证明2023年的反事实。&lt;/p&gt;
+&lt;p&gt;表5的历史安慰剂系数0.031，p＝0.196，事件图中2023年却为0.066，p＝0.032。哲学的汇总系数0.161，p＝0.022，事件年为0.012，p＝0.892，且2018至2020年已有明显偏离。两项安慰剂提供的证据并不一致。表6加入疫情期与专业类交互后，新闻传播系数从0.123（0.013）变为0.127（0.018），两列N为3,317,389。这说明加入所列疫情控制后结果接近，仍可能存在2023年新闻传播类特有的招生、行业或需求变化。&lt;/p&gt;
+&lt;p&gt;表7改用较窄的人文对照，N为492,403，人均GDP门槛77,983.5元。较低组系数0.067（0.009），p＜0.001，较高组相对差为−0.043（0.014），p＜0.01。较高组点估计为0.024，换算约2.4%，表未给线性组合的标准误。省级经济水平无法直接说明某户家庭的财务缓冲、网络使用或信任程度。&lt;/p&gt;
+&lt;h4&gt;两处不能从位次推出的结论&lt;/h4&gt;
+&lt;p&gt;第9页将13.1%乘以假设的招生人数，推算约1.69万人转选其他专业。录取末位和转报人数之间没有这样的比例关系。即便名额不变，原来末位附近的少数考生更改排序也可能改变门槛。没有志愿顺序、名额、候补与投档过程，本文不采用该人数推算。&lt;/p&gt;
+&lt;p&gt;作者还把新闻传播与计算机全样本系数绝对值之比1.836与既有损失厌恶估计比较。两个专业面对不同的就业趋势和受众，信号强度、内容和接触范围也未对齐。模型可比较各自录取末位的变化，不能由此识别同一考生对等量收益与损失的权重。第4页图2画的是2024年月薪区间，正文7000元相对6000元约高16.7%，和正文所写25%不符。就业数据是事后背景，也不用于证明发言内容在2023年准确。&lt;/p&gt;
+&lt;p&gt;本项目可以把公开发言、个人接触、志愿顺序与录取结果连起来测量，再用配额和投档制度解释门槛。与宁夏志愿信息实验相照，那项研究有学校层面的分配，考察一套指导方案；本文利用一次公开事件，考察被点名专业的相对末位变化。两者回答不同层次的志愿信息问题。&lt;/p&gt;
+&lt;h4&gt;页码定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;期刊印刷页／PDF物理页&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;书目、问题和研究综述&lt;/td&gt;&lt;td&gt;1–3／1–3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;传播及薪资背景、样本与专业分类&lt;/td&gt;&lt;td&gt;3–5／3–5，表1–2、图1–2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;因变量、模型、描述图&lt;/td&gt;&lt;td&gt;5–8／5–8，式1–6、图3–4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;基准估计和专业比较&lt;/td&gt;&lt;td&gt;8–9／8–9，表3–4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;事件研究、安慰剂和疫情控制&lt;/td&gt;&lt;td&gt;9–12／9–12，表5–6、图5–6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;省际结果、讨论与研究边界&lt;/td&gt;&lt;td&gt;11–13／11–13，表7、图7&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;数据可用性、参考文献和声明&lt;/td&gt;&lt;td&gt;13–15／13–15&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content:encoded>
+</item>
 <item>
 <title>志愿选择为什么会成为家庭的风险管理</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-liu-2026-risk-translation</link>
