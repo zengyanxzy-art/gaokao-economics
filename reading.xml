@@ -6,7 +6,40 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 01:04:42 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 01:07:15 GMT</lastBuildDate>
+<item>
+<title>动态修改志愿如何影响录取效率与稳定性</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-gong-liang-2024-dynamic-matching</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:gong-liang-2024-dynamic-matching:3b816fdd9ba6de441501361f050e208b5980cb35c39bc8934c7508e2c71f2b13:2026-11-14T01:07:15.108Z</guid>
+<pubDate>Sat, 14 Nov 2026 01:07:15 GMT</pubDate>
+<description>动态修改志愿如何影响录取效率与稳定性 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-14T01:07:15.108Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-gong-liang-2024-dynamic-matching&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;一次只填一所学校，随时能改，录取结果会怎样？&lt;/h3&gt;
+&lt;p&gt;如果填志愿时能看到一所学校现在报了多少人、自己的分数排在哪里，会不会比事先交一张志愿表更容易选？Gong与Liang研究过内蒙古采用的一种动态填报方式。考生一次报一所学校，能看当前竞争情况，在自己那一段截止前可以改。暂时排进招生名额还需要留意变化，因为优先序更高的人后来也可能改报这所学校。&lt;/p&gt;
+&lt;p&gt;这个规则把一部分判断留到填报过程中。此前读过的宁夏研究里，考生要提前把几所学校排成一张表。动态填报下，如果发现心仪的学校暂时够不到，可以看一看此时哪些学校还有机会，再决定要不要换。但信息能看见，考生仍需要及时看、看得懂，并且有时间修改。&lt;/p&gt;
+&lt;p&gt;研究者把三种录取办法搬进实验室。四名学生竞争四所各有一个名额的学校，他们知道自己的优先名次，彼此的完整偏好则不公开。实验里，上哪所学校可以换成预先规定的小额报酬。两种静态规则要交完整清单，其中一种允许高校在后续轮次替换暂留者，另一种逐轮确定录取。动态规则让学生看当下的竞争，并在15秒或30秒内调整，名次靠前的两人先截止。&lt;/p&gt;
+&lt;p&gt;作者比较了两个结果。稳定指既没有人比占座者优先、又更想去那所学校，也没有空着的名额被想去的人错过。有效指没有一种重新分配能让至少一人按自己的偏好得到更好结果，同时无人变差。它和平均分数、毕业收入都不是一个指标。&lt;/p&gt;
+&lt;p&gt;在两类学生偏好差异较大的实验情形里，动态组约73%的分配达到稳定，允许替换暂留者的静态组也约73%。动态组约88%的分配达到有效，逐轮确定录取的静态组约86%。这两对差别在实验中未被统计检验检出。按效率看，允许替换暂留者的静态组约93%，仍高于动态组。换到偏好更相近的情形，动态组在稳定和效率上都落后于允许替换暂留者的那一组。规则的表现会随考生偏好和考生使用规则的方式而变。&lt;/p&gt;
+&lt;p&gt;这个实验有372名复旦学生，每个小组只有四个人。它说明在规定的时间、名额和报酬下，人们怎样使用三套规则。真实高考里的学校更多，填报时间、网络和求助条件也不同。研究没有用真实考生来比较改革前后，因此不能据此断定全国推广会提高录取质量。若要理解实时反馈在现实中帮了谁，还需看到考生何时发现自己被挤出、能不能在截止前找到可接受的替代选项，以及最终去了哪里。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1287/mnsc.2022.00871&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊原文&lt;/a&gt; · 研究笔记&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;志愿可以边看边改，录取会更稳定吗？&lt;/h3&gt;
+&lt;h4&gt;版本与问题&lt;/h4&gt;
+&lt;p&gt;Binglin Gong、Yingzhi Liang，A Dynamic Matching Mechanism for College Admissions: Theory and Experiment。Management Science，2024年9月12日在线先行，2025年第71卷第5期刊载于4396–4412页，DOI 10.1287/mnsc.2022.00871。本次逐页读完作者主页所供期刊排版先行版，物理页与先行版印刷页均为1–17。按卷期书目可换算为4395加先行页，本文直接引用手中版本。在线附录与复现包的官方入口本次未取得文件，定理证明和附录稳健性仅按正文的指引与陈述引用。&lt;a href=&quot;https://doi.org/10.1287/mnsc.2022.00871&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊论文&lt;/a&gt; · &lt;a href=&quot;https://sites.google.com/umich.edu/yingzhi/research&quot; rel=&quot;noopener noreferrer&quot;&gt;作者主页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;研究问，在高校共享同一严格考生优先序时，实时反馈、每次报一所和截止前重选组成的机制，与静态延迟接受（DA）和波士顿立即接受相比，能否按考生偏好稳定、有效地分配名额。&lt;/p&gt;
+&lt;h4&gt;机制和理论条件&lt;/h4&gt;
+&lt;p&gt;研究所描述的历史制度中，各分数段可以同时开始填报，高分段先截止。考生同一时刻只报一所，可以看到各校名额、报名和分数情况，并在本段截止前换校。暂时在名额内仍可能被高优先级的后来者挤出。波士顿机制逐轮永久录取，志愿次序影响竞争资格。DA逐轮暂留，后来申请且优先序更高者可以替换暂留者。共同优先序下，按真实偏好的DA与依次按优先序让考生选剩余名额得到同一个稳定且帕累托有效的匹配。&lt;/p&gt;
+&lt;p&gt;稳定有两个条件。其一，不能有人更喜欢另一考生的席位且优先序更高。其二，不能空着某个席位而有人更喜欢它。有效指没有另一种分配能至少使一人变好、同时无人变差。两者按模型或实验里的给定偏好判断。&lt;/p&gt;
+&lt;p&gt;第6–7页以各考生独立的泊松到达表示得到修改机会的时点。考生观察他人的当前选择，得到机会时可以改，也可以不改。定理1假设理性为共同知识，当到达率足够大时，任一可理性化策略组合都以任意接近1的概率达到稳定、有效结果。这里的概率依赖修改机会充足，并未给现实系统的误配率。定理2说明，优先名次排在首选学校容量之外的考生没有弱占优策略。作者把分段截止解释为较高优先者先锁定，其余分段再竞争剩余席位。这个推论沿用共同优先序、充分到达及理性等条件。&lt;/p&gt;
+&lt;h4&gt;实验比较&lt;/h4&gt;
+&lt;p&gt;实验于2015年在复旦大学进行。每组4名学生、4所各有1个席位的学校，组内两类偏好各两人，个人类型保密，构成和分数名次已知。两种偏好环境使用相同的四档支付16、11、7、5元，只改变一类学生对学校的排序。低相关环境下，表1所列DA和波士顿的贝叶斯均衡策略组合大幅减少，作者以此刻画更高的策略复杂性。&lt;/p&gt;
+&lt;p&gt;3种机制×2种环境采用被试间设计。表3为31场、372人，各单元5场60人，动态低相关为6场72人。每场12人，20轮，每轮随机分配偏好类型并重组四人，名次每五轮轮换。正文明确随机分配电脑座位和轮内角色，未详述招募后如何分到六个处理单元。动态组前两名15秒、后两名30秒，静态两组提交完整清单不限时。比较对象是整套机制，不能从中单独识别实时反馈、单志愿、截止和顺序锁定各自的贡献。没有真实招生的ITT或参与者平均效果。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;指标&lt;/th&gt;&lt;th&gt;动态高／低相关&lt;/th&gt;&lt;th&gt;DA高／低相关&lt;/th&gt;&lt;th&gt;波士顿高／低相关&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;如实申报比例，表4&lt;/td&gt;&lt;td&gt;71.6%／75.9%&lt;/td&gt;&lt;td&gt;69.8%／62.7%&lt;/td&gt;&lt;td&gt;43.5%／44.5%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;稳定分配比例，表6&lt;/td&gt;&lt;td&gt;85.0%／73.1%&lt;/td&gt;&lt;td&gt;95.7%／73.3%&lt;/td&gt;&lt;td&gt;54.3%／49.0%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;有效分配比例，表7&lt;/td&gt;&lt;td&gt;87.3%／87.5%&lt;/td&gt;&lt;td&gt;98.3%／93.3%&lt;/td&gt;&lt;td&gt;94.3%／86.0%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;表4、6、7按场次作独立观察进行置换检验，20轮不能当成20批独立招募。低相关环境中，动态与DA稳定率相差−0.2个百分点，对应表6第8列p＝0.504。动态与波士顿效率相差+1.5个百分点，对应表7第8列p＝0.699，动态相对DA则低5.8个百分点，对应p＝0.045。前两个结果未检出差异，论文没有做等效检验。动态跨环境稳定率点估计下降11.9个百分点，p＝0.056，效率变动+0.2个百分点，p＝1.000。DA稳定率下降22.4个百分点，p＝0.008。样本来自少量同校场次，无法由未显著差异断言动态表现不受环境影响。&lt;/p&gt;
+&lt;p&gt;动态的如实指标要求每次实际修改都选当前最喜欢的可录学校，静态要求完整顺序与预设偏好一致。动态只观察实际修改，无法看到未行动的机会，因此不等于理论中的每获机会都作当前最优反应。作者报告改用静态首项如实也得相近结论，附表本次未取得。先行版第11页左栏把动态和DA的高、低相关结果写反。这里采用表4，动态高相关比DA高1.8个百分点，p＝0.278，低相关高13.2个百分点，p＝0.011。&lt;/p&gt;
+&lt;h4&gt;截止与分配的解释&lt;/h4&gt;
+&lt;p&gt;第12–13页报告，约6%的最后一次修改发生在该段最后两秒。作者把最后选择并非最佳反应且同组有人压线修改的情况，作为来不及反应的上界，约占所有最后修改0.68%。这是基于行为记录的上界推算，没随机改变截止规则。另有实验参与者在可改时仍未改，作者倾向以注意力不足解释，轮次趋势不能排除其他原因。第15页模拟将剩余名额随机配给落单者，效率比例提高到96.0%和95.8%。这是事后重配计算，未在新的实验处理组或现实招生中实施。&lt;/p&gt;
+&lt;p&gt;与昨日读过的后备志愿研究相接，限制长度的静态表要求事先把后备选项想清楚，动态机制允许候选者看到当前形势再换校，仍需要在截止前检查并行动。这个区别可以用真实招生的时间戳、可达学校集合、修订与终局资料检验。论文引用的内蒙古改革前后数据只作制度背景，本文没有实地处理对照，不能把复读或报到率的变动归因给机制切换。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;先行版印刷页／PDF物理页&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;书目与制度背景&lt;/td&gt;&lt;td&gt;1–4／1–4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;三种规则、定理及分段截止&lt;/td&gt;&lt;td&gt;5–8／5–8&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;实验、偏好与场次&lt;/td&gt;&lt;td&gt;8–10／8–10，表1–3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;如实、实时修改与回归&lt;/td&gt;&lt;td&gt;10–13／10–13，表4–5、图1–2&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;稳定、效率及终局再分配&lt;/td&gt;&lt;td&gt;13–16／13–16，表6–7、图3–4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;说明、脚注与参考文献&lt;/td&gt;&lt;td&gt;16–17／16–17&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;主文表图已自行核读。在线附录、数据与程序未复核，原结论所用检验未重跑。&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>忽视后续志愿的选择权价值</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-041</link>
