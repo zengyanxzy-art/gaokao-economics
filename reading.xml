@@ -6,7 +6,42 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 16 Nov 2026 01:09:21 GMT</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:06:52 GMT</lastBuildDate>
+<item>
+<title>分数首位偏差与自我评价</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-045</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:bib-045:a1fabfc474b6f575e234f3ec976699034a14bf2602eff14e00bcc72b3650a081:2026-11-17T01:06:52.489Z</guid>
+<pubDate>Tue, 17 Nov 2026 01:06:52 GMT</pubDate>
+<description>分数首位偏差与自我评价 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-17T01:06:52.489Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-045&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;519 分和 520 分，填志愿时只差一分吗？&lt;/h3&gt;
+&lt;p&gt;从519分到520分，成绩只升了一分，左边两位数字却从51变成了52。填志愿时，人的判断会跟着多跳一步吗？李宏彬与邱昕瑶用1999至2003年的高考记录，把许多整十分附近的考生放在一起比较，看看录取去向有没有额外变化。&lt;/p&gt;
+&lt;p&gt;当时多数省份优先处理第一志愿。如果一所学校在第一轮就招满，后面把它排在第二的人，即使分数更高也可能进不去。考生既要想自己喜欢哪所学校，也要猜第一志愿有多大把握。这样一来，觉得自己比实际更有把握，或者更没把握，都可能改变第一栏填什么。&lt;/p&gt;
+&lt;p&gt;研究者利用不同分数上原本就存在的趋势来估计跳变。例如，分数越高，进录取分数更高的大学通常越容易。他们看的是，接近整十分时，录取结果能否沿着平常那条趋势接下去。在出分后填报的样本里，刚到整十分的一侧，已录取考生进985高校的比例多跳了约0.73个百分点。换句话说，在相同规模的人群中，这个差距约合每千人7人。录取院校和专业的同届考生平均位次也更靠前。&lt;/p&gt;
+&lt;p&gt;风险也往上跳。刚过整十分这一侧，已录取的人没获第一志愿院校的比例高约1.03个百分点。把未录取的人也算进去，可以追踪的考生后来再次高考的比例高约0.76个百分点。研究者据此判断，刚够到整数的一侧更敢把难进的学校写在前面，有人如愿，也有人没够到。手中的记录能看到录取去向和后来是否重考，不能看见每一项志愿或每位考生重考的原因。&lt;/p&gt;
+&lt;p&gt;还有一些地方，考生填表时实际分数尚未公布。如果试卷打到520分本身就另有一套录取规则，填报早晚都可能看到类似的跳变。论文发现，未出分就填志愿的样本里，进985和复考等跳变小得多。第一志愿落空一项仍有小幅变化，方向与出分后样本相反。这个对照支持一种解释，考生看见分数后，对左边数字赋予了额外分量。&lt;/p&gt;
+&lt;p&gt;湖南后来改用平行志愿。论文在这一省一年看到，跨整十分时，录取院校和专业选择性的差距变小。其他结果没有同样整齐的变化。这项研究因此更适合帮助我们理解早期规则怎样放大判断差异。今天若想检验同样的现象，可以比较只看分数、同时看位次和看分数差的考生，在录取规则相同的情况下最后怎样填报。分数跨过了整数，和相对同届考生的位置跨了多少，是可以分别看清的两件事。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1162/rest_a_01331&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊论文&lt;/a&gt; · 研究笔记&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;高考分数跨过整十分，录取结果会怎样变？&lt;/h3&gt;
+&lt;h4&gt;版本与研究问题&lt;/h4&gt;
+&lt;p&gt;李宏彬（Hongbin Li）与邱昕瑶（Xinyao Qiu），*Heuristics in Self-Evaluation: Evidence from the Centralized College Admission System in China*。本次读完斯坦福公开、署2023年2月24日的期刊录用稿，共36个PDF物理页。物理第1页为无页码题名页，第2–36页对应印刷第1–35页。2025年正式刊于 *The Review of Economics and Statistics* 107(6)，1724–1733页。本文表图与数值依录用稿。录用稿提到的附录A、附表B1–B7未收入这份PDF。&lt;a href=&quot;https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2024-12/heuristics_in_self-evaluation_-_li_hongbin_qiu_xinyao.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;斯坦福公开录用稿&lt;/a&gt; · &lt;a href=&quot;https://doi.org/10.1162/rest_a_01331&quot; rel=&quot;noopener noreferrer&quot;&gt;正式 DOI&lt;/a&gt; · &lt;a href=&quot;https://hub.hku.hk/handle/10722/381372&quot; rel=&quot;noopener noreferrer&quot;&gt;香港大学卷期记录&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;作者问，考生知道实际分数后，会不会把519分与520分之间的差距看得格外大。这里的自我评估指考生对自己分数能否够到目标院校专业的主观判断。样本期多数省采用首志愿优先的波士顿机制，一旦首志愿没录上，后续学校可能已招满。这个制度把对分数和录取机会的判断变成了对首志愿的实际取舍。&lt;/p&gt;
+&lt;h4&gt;样本、指标与识别&lt;/h4&gt;
+&lt;p&gt;行政数据覆盖1999–2003年高考考生，记录分数、省份、文理科、录取院校专业及录取志愿顺序。数据没有完整志愿清单，也没有直接测量考生或家长的主观信念。表1A主分析聚焦满分750、出分后填报的省份与年份。录取结果使用具备至少二批填报资格且已录取的考生。复考结果纳入未被录取者，以1999–2002年各届考试为追踪起点，因2003年之后未继续观察。&lt;/p&gt;
+&lt;p&gt;同一省、年、科类内，作者用该院校专业已录取考生的最低分估计录取线，分差为个人分数减该线。正的分差只表示录取分数余量，不能直接估计考生本可获得的席位或福利损失。院校、院校专业的选择性是同一省年科类内这些已录取考生的平均分数百分位，精英高校另以39所“985工程”高校标记。该选择性反映录取竞争位置。&lt;/p&gt;
+&lt;p&gt;式（1）将410至630之间的23个整十分断点堆叠。运行变量是分数与各断点之差，处理指示为达到或超过断点，主带宽6分。对每个断点允许两侧斜率和该断点截距不同，共用一个跳跃系数。一个考生可为两处断点提供记录，表中N按回归观察值报告，不能直接当成去重人数。图1按尾数画阈值固定效应调整后的系数，以尾数5为零，和表1的回归规格有别。&lt;/p&gt;
+&lt;p&gt;把跳跃归于分数数字的呈现，需要没有其他规则或考生构成在这些任意断点系统地同时跳变，并且拟合得以区分平滑的分数变化与断点差异。考分离散，局部线性规格和带宽会影响推断。作者报告学生特征平衡、带宽变动、聚类以及另一规格稳健性，附表本次未直接核读。没有随机分派分数信息或实际参与，本文没有信息干预的ITT、依从者效果或参与者平均效果。主结果是历史制度下跨分数断点的局部比较，若跨线也影响被录取概率，已录取者条件样本可能随之改变。&lt;/p&gt;
+&lt;h4&gt;录取机会和落空风险&lt;/h4&gt;
+&lt;p&gt;录用稿表1A比较拟合出的断点右侧与左侧。第1至4及第6列N为817,800，第5列为832,314。下表括号中的标准误用与估计相同的单位。原表六列均标为p＜0.01。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;结果&lt;/th&gt;&lt;th&gt;表1A列&lt;/th&gt;&lt;th&gt;断点跳跃&lt;/th&gt;&lt;th&gt;稳健标准误&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;个人分数超出录取线&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;−0.5410分&lt;/td&gt;&lt;td&gt;0.1051分&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;录取院校选择性&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+0.2467个百分位点&lt;/td&gt;&lt;td&gt;0.0366个百分位点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;录取院校专业选择性&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+0.1562个百分位点&lt;/td&gt;&lt;td&gt;0.0365个百分位点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;在已录取者中录取至985高校&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+0.73个百分点&lt;/td&gt;&lt;td&gt;0.13个百分点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;此后复考&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;+0.76个百分点&lt;/td&gt;&lt;td&gt;0.14个百分点&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;已录取但未获第一志愿院校&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;+1.03个百分点&lt;/td&gt;&lt;td&gt;0.18个百分点&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;作者用表中列值12.11%、10.93%和20.49%作分母，分别得到约6%、7%和5%的相对变化。复考包括落榜和录取后不满意等可能原因。未获第一志愿院校也只有在已录取样本中比较。数据无法分清复考动机、志愿填写时的主观风险或最终报到。&lt;/p&gt;
+&lt;p&gt;表1B用估分或考前填报的省年作安慰剂，运行变量仍是事后真实分数。前五项点估计较小，未检出显著跳跃。第6列仍显著，方向相反，为−0.34个百分点（标准误0.13）。这支持报考时看见分数在机制中起作用，且两组省年有别，不能把安慰剂当成分数展示的随机试验。&lt;/p&gt;
+&lt;h4&gt;机制检验与原稿核对&lt;/h4&gt;
+&lt;p&gt;表2A以整百分作门槛、60分作带宽。例如分数与所录院校专业最低分之差跳跃为−2.7820分（标准误0.1156），绝对值约为表1A的5.14倍。断点、带宽和纳入的观察同时改变，这个比值是两个规格的比较。其方向符合作者关于更高位数字更醒目的解释。&lt;/p&gt;
+&lt;p&gt;表2B利用湖南2003年改用平行志愿的唯一处理省年，在断点模型上加规则交互及省、年固定效应。院校选择性断点由基准+0.2788（标准误0.0282）变为按交互项相加的−0.0901个百分位点，交互项−0.3689（0.0563）。院校专业选择性亦缩小，但首志愿落空交互为+1.02个百分点（0.65），该列未报告显著变化。按表中点估计相加，分差及精英校的跳跃变号，绝对值未缩小。表中未给相加估计的标准误，不据此判断平行组跳跃显著性。表注把2003年采用的机制写作Boston，与第6.2节、脚注21及2003年不可追踪复考的解释冲突。按正文和脚注，2003年采用的是平行志愿。&lt;/p&gt;
+&lt;p&gt;作者把这些规律解释为左位偏差，认为降低志愿技巧的重要性可缓解数字偏差带来的录取后果。我们的判断是，真实录取记录与该解释相符，仍不能从中分离学生和家长各自的判断，也不能直接检验考生是粗略读自己的分数、粗略读历史录取线，还是用整数划分可比较的院校。湖南的比较要求没有同一省年其他改变同时影响断点附近的志愿行为，也无法说明今天的规则必然出现同样效应。&lt;/p&gt;
+&lt;h4&gt;对本项目的启发&lt;/h4&gt;
+&lt;p&gt;此前 Ersoy 与 Speer 随机排列资料包，观察学生怎样改写专业意向。本篇以历史行政记录观察已经实现的录取结果，为“信息怎样被理解”提供了另一类证据。可以在实际填报界面上检验，分数旁同时给位次和分数差，是否会削弱整数附近的志愿跳跃。要衡量福利，需要追踪完整志愿、录取、报到及复考，并知道考生如何权衡院校专业和落空风险。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;证据&lt;/th&gt;&lt;th&gt;印刷页&lt;/th&gt;&lt;th&gt;PDF物理页&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;制度、数据、变量&lt;/td&gt;&lt;td&gt;5–12&lt;/td&gt;&lt;td&gt;6–13&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;断点规格与图1&lt;/td&gt;&lt;td&gt;12–18&lt;/td&gt;&lt;td&gt;13–19&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;主结果和安慰剂，表1A、B&lt;/td&gt;&lt;td&gt;19–22&lt;/td&gt;&lt;td&gt;20–23&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;百分断点及平行志愿，表2A、B&lt;/td&gt;&lt;td&gt;24–28&lt;/td&gt;&lt;td&gt;25–29&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;作者结论及限制&lt;/td&gt;&lt;td&gt;28–29&lt;/td&gt;&lt;td&gt;29–30&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content:encoded>
+</item>
 <item>
 <title>专业选择中的信息：课程难度、性别构成与职业前景</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-ersoy-speer-2025-major-choice-blackbox</link>
