@@ -6,7 +6,37 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 18 Nov 2026 01:21:15 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 01:06:00 GMT</lastBuildDate>
+<item>
+<title>教育回报认知会改变继续升学的选择吗？</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-jensen-2010-perceived-returns</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:jensen-2010-perceived-returns:d1cbbd6395c2f2370dccc07f822843ea56ae3e73e7281d1fd95f353a1a14fd2d:2026-11-19T01:06:00.503Z</guid>
+<pubDate>Thu, 19 Nov 2026 01:06:00 GMT</pubDate>
+<description>教育回报认知会改变继续升学的选择吗？ · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-19T01:06:00.503Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-jensen-2010-perceived-returns&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;知道读书能多挣一些，孩子就会继续上学吗？&lt;/h3&gt;
+&lt;p&gt;如果一个孩子觉得读完中学和只读完小学挣得差不多，他可能更愿意早点工作。给他看一份收入资料，会不会改变这个选择？Jensen在多米尼加共和国做过一个实验。研究追踪了学生接下来几年实际读了多久，让我们有机会看到，知道更多以后，行动能改变多少。&lt;/p&gt;
+&lt;p&gt;2001年，研究者在150所学校访谈了2,250名八年级男生。当地八年级是义务教育的最后一年，也是许多人离校的时点。男生们先估计，自己将来只读完小学或读完中学，各能挣多少钱。两种情况下的预期月收入平均相差329比索。研究者另外做的家庭调查里，两组30至40岁成年男性的实际月均收入相差约1,300比索。学生认为读完中学带来的差距，小了很多。&lt;/p&gt;
+&lt;p&gt;学校被随机分成两组。一组做完问卷后，听研究人员介绍不同学历的收入统计，还可以提问。另一组做相同的问卷，结束时没有这一段额外资料。几个月后，信息组对未来收入差距的判断明显上调。研究者随后继续追踪，直到原本该读完中学的时候。&lt;/p&gt;
+&lt;p&gt;控制年龄等因素以后，信息组平均比对照组多读了约0.20年书。听起来不足一年，是因为这是整组学生的平均变化，有人原来就会读下去，也有人仍然离校。第二学年回校的比例提高约4个百分点，但这个估计的不确定性较大。中学毕业率也有小幅上升，数据没有清楚检出这项差异。&lt;/p&gt;
+&lt;p&gt;再按家庭收入分组，结果更有意思。相对不那么贫困的学生平均多读了约0.33年，较贫困的一组增加很少，估计也不精确。两组对收入差距的预期都提高了。一个家庭可以相信读书长远有好处，同时眼前仍拿不出学费，或者需要孩子工作。研究者认为，这可能是较贫困学生难以把新认识变成继续升学的原因。实验只提供信息，没有同时发补贴，因此还不能确认资金约束究竟解释了多少。&lt;/p&gt;
+&lt;p&gt;这也提醒我们看待收入资料的方式。成年男性中，不同学历群体的平均收入，是当时不同人已经走过的道路。一个学生继续读书，还会遇到学校质量、毕业机会和以后的就业环境。他需要知道读书可能带来什么，也需要知道自己怎样承担接下来几年的费用。&lt;/p&gt;
+&lt;p&gt;放到高考志愿里，类似的问题是，考生知道某专业的就业去向以后，有没有条件选择它。课程、费用、资助和家庭的承受能力都会进入决定。多米尼加的实验给出了一项实际证据，信息可以改变部分学生的教育行为。要进一步理解谁能用上信息，还得把他们面前的可选路径和需要承担的代价一同看清。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://doi.org/10.1162/qjec.2010.125.2.515&quot; rel=&quot;noopener noreferrer&quot;&gt;正式论文&lt;/a&gt; · 研究笔记&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;告诉学生读书的收入差距，会改变实际升学吗？&lt;/h3&gt;
+&lt;p&gt;Robert Jensen，*The (Perceived) Returns to Education and the Demand for Schooling*，*The Quarterly Journal of Economics* 125(2)，2010年5月，515–548页，DOI 10.1162/qjec.2010.125.2.515。本次逐页读完伯克利大学网站保存的正式版34页，物理页1–34对应印刷515–548页。页脚2013年11月10日为下载记录。本文引用期刊页码。期刊网页本次返回403，未取得正文反复引用的在线附录，相关稳健性按正文所述报告。&lt;a href=&quot;https://eml.berkeley.edu/~saez/course131/Jensen10.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;正式版全文&lt;/a&gt; · &lt;a href=&quot;https://doi.org/10.1162/qjec.2010.125.2.515&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊书目&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;研究把两个问题连起来。一是学生以为读完中学以后能挣多少，二是向他们提供一份收入统计，能不能改变实际继续上学的行为。前一问题靠调查，后一问题由学校层面的随机实验检验。&lt;/p&gt;
+&lt;p&gt;研究在多米尼加共和国30个较大的城市和城镇进行。2001年4–5月，150所学校各随机抽15名八年级在校男生，共2,250人，平均约14岁。八年级为当地义务教育的末年。研究未纳入女生，也不覆盖此前已离校的同龄人。学校以等概率分成信息组和对照组，各1,125名男生。两组都接受相同的收入预期访谈，信息组在最后额外听到不同学历成年男性的平均收入，并可提问。访员复述关键数字，研究者以不同问卷和现场抽查核实施行。随机化在学校层面，减少同校交流污染，学校之间的信息交流仍无法排除。&lt;/p&gt;
+&lt;p&gt;收入资料来自作者先行开展的非农村家庭调查，包括没有工作收入的人。表III中，30–40岁、只读完小学的男性月均收入3,180多米尼加比索，只读完中学者4,479比索，差1,299比索，约41%。这是2001年群体收入差，不能直接解释为同一个学生多读中学后的因果收益。学生自己报告的对应未来月收入均值为3,516和3,845比索，差329比索。他们认为当时其他成年男性的差距更小，为287比索。预期问题没有给均值、分布、不确定性或通胀作严格定义，约10%未作答。自己和他人的两种回答均低，有助于排查单纯的个人处境预期，仍不能由此确认每个人都低估了自己的收益。&lt;/p&gt;
+&lt;p&gt;2001年10月再次测信念和是否升入中学，2005年5–6月追踪教育结果，对仍在读而延迟毕业的约120人继续跟踪两年。无法直接找到学生时，研究使用亲属或邻居信息，并向学校核实。第二、第三轮分别约97%、91%的学生有可核的学校记录。收入分组来自干预后的第二轮家庭调查。调查权重使结果对应所抽30个城市和城镇。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;实际升学。&lt;/strong&gt; 表V控制年龄、教师评定的原有学业表现、父亲中学学历和家庭人均收入，标准误按学校聚类。按最初分组比较，是随机分配额外信息的意向处理效应（ITT）。文中未另估计按实际听懂、相信或使用资料者计算的效果。对照组已经做过同一份信念问卷，所以这里估计的是访谈后再提供收入资料的增量。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;结果&lt;/th&gt;&lt;th&gt;表V列&lt;/th&gt;&lt;th&gt;信息组相对对照组&lt;/th&gt;&lt;th&gt;学校聚类标准误&lt;/th&gt;&lt;th&gt;N&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;次学年回校&lt;/td&gt;&lt;td&gt;1&lt;/td&gt;&lt;td&gt;+4.1个百分点&lt;/td&gt;&lt;td&gt;2.3个百分点&lt;/td&gt;&lt;td&gt;2,241&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;完成中学&lt;/td&gt;&lt;td&gt;2&lt;/td&gt;&lt;td&gt;+2.3个百分点&lt;/td&gt;&lt;td&gt;2.0个百分点&lt;/td&gt;&lt;td&gt;2,205&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;完成教育年限&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;+0.20年&lt;/td&gt;&lt;td&gt;0.082年&lt;/td&gt;&lt;td&gt;2,074&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;个人预期月收入差的前后变化&lt;/td&gt;&lt;td&gt;4&lt;/td&gt;&lt;td&gt;+367比索&lt;/td&gt;&lt;td&gt;28比索&lt;/td&gt;&lt;td&gt;1,859&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;教育年限增加在5%水平显著，回校结果仅在10%水平显著，完成中学未检出显著差异。无协变量的表IVB给出的教育年限差为+0.18年（标准误0.098），毕业率为+2.0个百分点（0.024）。正文和摘要中0.20–0.35年的表述跨越不同样本或规格，不宜把上限当作全体平均。表IVB与V的毕业结果样本数不同，原文未在此解释为何分别为2,074和2,205，本文分列报告各自结果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;信念改变以后，谁能继续读。&lt;/strong&gt; 表V按第二轮家庭人均收入的样本中位数分组。较贫困组第7列教育年限+0.037年（0.11，N＝1,007），相对较不贫困组第11列+0.33年（0.12，N＝1,002）。收入差预期的变化分别为+344比索（41，第8列）和+386比索（41，第12列）。作者报告，两组教育处理效应相等的检验只有教育年限可被拒绝。随机化没有按财富分层，收入又在干预后测量，且缺失收入者未进入分组，分组解释应谨慎。&lt;/p&gt;
+&lt;p&gt;作者认为，知道读书可能有回报以后，费用和信贷约束仍可能拦住贫困学生。结果与该解释相容，研究没有随机提供贷款或补贴，无法单独识别信贷约束。正文脚注28也保留了另一可能，贫困组原来预期更低，相同上调不足以使他们跨过继续上学的决策边界。未显著的年限估计仍有较大不确定性，不能理解为每个贫困学生都不受影响。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;相关性、机制和核验。&lt;/strong&gt; 表IIA中原始信念可以预测以后教育，但可能受家庭、学校质量和逆向解释影响。表IIB第10–12列以信息分配作信念工具变量，要求信息只能经测得的收入差预期影响升学。作者随后承认，减少不确定性、访员的鼓励或其他信息也可能起作用，因此本文把随机资料包对升学的效应与单一信念机制区分。表VI按干预后信念变动不足1,000比索筛选学生，无法再保留原先的随机可比性。另有30所未先接受访谈学校组成影子对照，第1列的回校率差+1.4个百分点（2.7，N＝1,575），没有检出访谈本身的影响，仍无法排除访谈与额外资料互动。&lt;/p&gt;
+&lt;p&gt;第541页报告，仅用核实的教育数据时结论相近，相对较不贫困组的毕业结果p＝0.12。脚注31说明，若给无法核实的对照组与信息组分别赋最有利及最不利结果，教育效应会缩小并失去显著性。相关附表本次未取得。正文收入调查称1,500户，但随后150片区各20户的抽样说明合为3,000户，规模未能完全对齐。干预话术中的大学月收入5,900比索也与表III的9,681比索不同，本文量化结论限于小学与中学。表IV信念双重差分的若干汇总数亦难由列出的均值精确复算，采用表V报告的回归系数，未自行修改原表。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;与高考研究的连接。&lt;/strong&gt; 前两天读到的分数断点和城乡志愿差距，让我们看见信息处理与选择相连。本研究补上了随机资料与多年实际教育的联系。它不能直接预测中国考生会改哪所大学或哪一专业，也没有估计新增教育的最终收入或福利。可检验的设想是，在相同填报制度下，将就业与课程资料、费用和资助信息作不同安排，先记录信念与完整志愿，再追踪录取和就读。研究需保留家庭承受能力，才能理解为什么同样的信息可能带来不同的行动。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;证据&lt;/th&gt;&lt;th&gt;印刷页&lt;/th&gt;&lt;th&gt;PDF物理页&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;招募、收入调查、追踪、随机化和话术&lt;/td&gt;&lt;td&gt;518–524&lt;/td&gt;&lt;td&gt;4–10&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;基线及预测关系，表I–III&lt;/td&gt;&lt;td&gt;525–531&lt;/td&gt;&lt;td&gt;11–17&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;信念和升学，表IV–V&lt;/td&gt;&lt;td&gt;532–540&lt;/td&gt;&lt;td&gt;18–26&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;核实样本、影子对照、机制，表VI&lt;/td&gt;&lt;td&gt;541–544&lt;/td&gt;&lt;td&gt;27–30&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;作者讨论、未来回报和外推条件&lt;/td&gt;&lt;td&gt;544–547&lt;/td&gt;&lt;td&gt;30–33&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;</content:encoded>
+</item>
 <item>
 <title>相同高考分数下，农村学生为何录取到门槛更低的院校</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-chen-ding-liu-wu-ye-2018-rural-undermatch</link>
