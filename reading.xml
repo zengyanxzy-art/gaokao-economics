@@ -6,7 +6,53 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 01:06:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 07:21:06 GMT</lastBuildDate>
+<item>
+<title>进入州立旗舰大学对收入的影响：录取门槛的证据</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-hoekstra-2009-flagship-earnings</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:hoekstra-2009-flagship-earnings:a5f1b054ba3e1b98486fe0719a4a11c9f59b2c339449a6c363cd473279afbd10:2026-11-21T07:21:06.635Z</guid>
+<pubDate>Sat, 21 Nov 2026 07:21:06 GMT</pubDate>
+<description>进入州立旗舰大学对收入的影响：录取门槛的证据 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-21T07:21:06.635Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-hoekstra-2009-flagship-earnings&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;刚好够上更好的大学，后来会多挣一些吗？&lt;/h3&gt;
+&lt;p&gt;一所大学的毕业生挣得多，能说明这所大学教得好吗？高分学生、家庭条件较好的学生，本来就更容易进入这样的学校。他们日后的优势，有多少来自大学，只比较毕业生收入很难说清。&lt;/p&gt;
+&lt;p&gt;Mark Hoekstra在2009年发表的研究里，找到了另一种比较办法。他拿到美国一所旗舰州立大学的申请档案，再连接州政府的收入记录，关注录取线附近的人：刚好达到要求和刚好没达到要求，后来收入有什么不同？论文没有公布大学名称，我们也不能替它猜学校。&lt;/p&gt;
+&lt;p&gt;这里的录取线同时看高中成绩和SAT。高中成绩较高，所需SAT可以低些。作者按申请年份、学期和高中成绩重建规则，再把每个人的SAT换算成距离自己那条线多少分。关键想法是，在门槛附近，学习基础和家庭支持等条件应该平缓变化，进入旗舰大学的机会却突然增加。这使研究有机会把学校的作用同原有优势分开。这个判断依赖条件，也需要检验，不能理解成只要有分数线就自动得到因果结论。&lt;/p&gt;
+&lt;p&gt;主分析是1986至1989年申请的白人男性。筛选后有12,189人，其中8,424人在28至33岁至少有一年收入记录。研究观察他们高中毕业十到十五年后的收入，避开了刚离校、有人还在继续读书的阶段。不过，这只是州内行政记录覆盖的劳动收入，没有记录工时，也看不到州外工作者的完整收入。&lt;/p&gt;
+&lt;p&gt;结果支持一个有限但有意义的判断：对于因这条录取门槛而改变入读选择的男性，进入旗舰大学带来了正向收入回报。作者将其概括为约20%。这个数说的是特定边缘群体，不能变成“名校每个人都多挣20%”的保证。&lt;/p&gt;
+&lt;p&gt;为什么文章还要分开讲“跨线”“录取”和“入读”？因为它们不是同一件事。超过预计分数线的人仍可能未获录取，被录取的人也未必报到。如果只看两边收入跳了多少，算到的是跨线带来的变化；若想估计真正入读的作用，还要考虑门槛究竟让多少人改变了去向。把这几种效果混在一起，就会误读表格。&lt;/p&gt;
+&lt;p&gt;数字本身也有不确定性。论文用“约20%”作概括，原表估计的是对数收入，不能把系数直接当成精确百分比；采用最窄的比较窗口时，入读效果的统计证据也较弱，没有达到常用的5%显著性标准。结果方向值得重视，具体能多挣多少仍有误差。&lt;/p&gt;
+&lt;p&gt;大学靠什么带来这种差异？这篇论文还分不清。可能学到了更多，也可能遇到不同的同学、选择不同的专业，或者雇主更看重这张文凭。作者并不知道被拒者最终去了哪所学校。州内还有其他公立大学，多数本州升学者留在州内，只能提供背景，不能证明每个被拒者都去了同一种替代学校。&lt;/p&gt;
+&lt;p&gt;因此，这篇研究对高考讨论的启发，在于怎样把问题问得更准确。比较两所大学，应考虑同一个学生实际可能去哪里、门槛改变了谁的机会，以及收入之外的学费、兴趣和生活选择。它提供了一种研究办法，没有给中国高校排出回报榜，也没有替任何考生作出选择。要回答中国的具体问题，仍需连接本地录取与长期去向的证据。&lt;/p&gt;
+&lt;p&gt;本文依据2009年正式版717–724页，重点核对721页两幅图和722页表1。上述边界适用于本次阅读的主文；脚注所指补充结果未逐项查验。&lt;a href=&quot;https://direct.mit.edu/rest/article/91/4/717-724/57812&quot; rel=&quot;noopener noreferrer&quot;&gt;原论文信息&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;进入旗舰州立大学，收入会提高多少？&lt;/h3&gt;
+&lt;p&gt;Mark Hoekstra（2009），*The Effect of Attending the Flagship State University on Earnings: A Discontinuity-Based Approach*，The Review of Economics and Statistics，91(4)：717–724，DOI：10.1162/rest.91.4.717。&lt;/p&gt;
+&lt;p&gt;本次读完2009年11月正式期刊版全部8页，包括脚注和参考文献，核对两幅图、三张表及主要公式。所获文件另含一页JSTOR书目信息。未逐项查验脚注所指作者网站的补充结果，也未取得原始微观数据或复现代码；下文对这些结果只转述主文。本次不采用2006年会议早期稿的估计。&lt;/p&gt;
+&lt;h4&gt;问题与文献位置&lt;/h4&gt;
+&lt;p&gt;名校毕业生收入较高，可能同时来自学校培养、雇主对学历的评价，以及学生进入大学以前已有的优势。Hoekstra利用美国一所匿名旗舰州立大学的录取门槛，研究刚好跨线与刚好未跨线申请者后来的收入差异。这给院校质量回报提供了局部因果证据，回应一般毕业生均值比较无法排除的选择问题（717–718页）。&lt;/p&gt;
+&lt;p&gt;它接续本项目的教育回报阅读：Jensen研究告知收入信息能否改变升学行为；本篇研究入读特定大学的收入结果。两者的处理和估计对象不同，不能把信息干预效果与大学入读回报相互代替。对中国高考的价值主要是识别思路，数值需要中国本土证据。&lt;/p&gt;
+&lt;h4&gt;数据、样本与收入口径&lt;/h4&gt;
+&lt;p&gt;大学1986–1989年申请档案与州失业保险制度下1998年至2005年第二季度的季度收入相连。剔除成绩缺失、距门槛过远、GPA范围不符以及提前取消申请者后，白人男性样本12,189人，其中8,424人在28–33岁至少有一年收入可观察；这两个数不能都称为收入回归的完整样本量。表1未按规格逐行报告有效人数，不能补造（718页）。&lt;/p&gt;
+&lt;p&gt;主结果观察高中毕业10–15年后的年收入。作者将连续四季均有正报告收入的年度收入加总，以2005年美元计，再取自然对数；没有季度记录不机械记作零。先剔除年份、经验年数和申请队列影响，再对个人可观察年度的收入残差求平均，用于后续估计。因此结果是行政记录中的劳动收入，不是时薪、终身收入或扣除学费的净收益（719–720页）。&lt;/p&gt;
+&lt;p&gt;州外工作以及部分不受制度覆盖的工作无法观察。主文称未发现门槛处收入被观察概率的跳跃，但明确承认仍不能排除相互抵消的选择性流失。没有工时也使收入变化不能直接解释为工资率变化（718页及脚注6）。&lt;/p&gt;
+&lt;h4&gt;录取门槛怎样用于识别&lt;/h4&gt;
+&lt;p&gt;规则同时依赖高中GPA、SAT和申请学期、年份。原始精确规则未被大学保存，作者在各组反复尝试SAT门槛，用最能解释录取结果的门槛重建规则，再计算“实际SAT－该组所需SAT”。这个调整分数达到零表示预计达线，不能理解成所有申请者面对同一条原始SAT线（720页）。&lt;/p&gt;
+&lt;p&gt;由于例外录取、申诉、招生过程中的规则调整，以及被录取者未必报到，录取和入读概率的跳跃都小于一，属于模糊断点。图1标注入读概率跳跃0.388，即38.8个百分点，t=10.57；720页正文则概述约37个百分点。二者不完全一致，本文保留各自来源，不将图中数值与表1混算成新的估计。&lt;/p&gt;
+&lt;p&gt;因果解释要求门槛两侧其他收入决定因素连续，申请者不能精确操纵跨线；从跨线工具变量解释入读效果，还需要排除限制和单调性。作者以规则未公开、逐年变化和申请者分布没有明显缺口等支持识别，但分布检验只在主文中被报告，缺少丰富的预定背景变量作平衡检验。我们认为，门槛由录取数据重建、双维规则压缩为单维、函数形式与窗口选择，都是评估稳健性时应保留的关注点，并非本文已经证明识别失败。&lt;/p&gt;
+&lt;h4&gt;主要结果：三列不能混用&lt;/h4&gt;
+&lt;p&gt;表1（722页）以对数年收入为结果，所有标准误均为自助法标准误。下表每个单元依次给出系数、标准误与p值。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;表1规格&lt;/th&gt;&lt;th&gt;跨越分数门槛的收入跳跃&lt;/th&gt;&lt;th&gt;录取效果：作者称ITT&lt;/th&gt;&lt;th&gt;实际入读效果&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;第1行：共同三次多项式，无额外控制&lt;/td&gt;&lt;td&gt;0.095；0.032；0.003&lt;/td&gt;&lt;td&gt;0.135；0.046；0.004&lt;/td&gt;&lt;td&gt;0.223；0.079；0.005&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;第2行：加SAT与GPA控制&lt;/td&gt;&lt;td&gt;0.092；0.033；0.005&lt;/td&gt;&lt;td&gt;0.131；0.048；0.006&lt;/td&gt;&lt;td&gt;0.216；0.081；0.008&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;第3行：两侧可不同的二次多项式，加控制&lt;/td&gt;&lt;td&gt;0.111；0.045；0.014&lt;/td&gt;&lt;td&gt;0.170；0.073；0.019&lt;/td&gt;&lt;td&gt;0.281；0.121；0.021&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;第4行：距线200分内，共同二次，加控制&lt;/td&gt;&lt;td&gt;0.081；0.038；0.034&lt;/td&gt;&lt;td&gt;0.116；0.056；0.038&lt;/td&gt;&lt;td&gt;0.192；0.094；0.041&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;第5行：距线100分内，共同线性，加控制&lt;/td&gt;&lt;td&gt;0.074；0.038；0.050&lt;/td&gt;&lt;td&gt;0.110；0.058；0.060&lt;/td&gt;&lt;td&gt;0.181；0.099；0.067&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;第一列是达到预计分数门槛的简约式收入变化；第二列还按实际录取的跳跃调整，虽被作者称为ITT，也不是未经调整的跨线效果；第三列按实际入读的跳跃调整，是门槛影响入读选择者的局部平均处理效果。它不是所有已经入读者的平均效果，更不是所有学生都能获得的回报（720、722页）。&lt;/p&gt;
+&lt;p&gt;作者用“约20%”概括入读回报。表中0.181–0.281实际为对数点，不能当作精确的18.1%–28.1%；只作指数换算约为19.8%–32.4%，第1行0.223对应约25.0%。这是对已报告系数的单位换算，并非重新估计，也不宜将上端值作为主结论。最窄窗口下入读估计p=0.067，只达到10%水平，未达到5%；说明结果方向较一致，精确程度仍受规格影响。图2所示跨线收入跳跃0.095也不等于入读效果0.223（721–722页）。&lt;/p&gt;
+&lt;h4&gt;替代选择与机制还不能确定&lt;/h4&gt;
+&lt;p&gt;作者不知道被拒者实际去了哪所学校。州内有七所较低选择性的公立大学，学费与旗舰相差不超过3%；1998年总体调查显示该州升学者逾85%留在州内，但这不是本样本被拒者的逐人去向记录（723页）。&lt;/p&gt;
+&lt;p&gt;表2换用1992–1995年申请的15,321名白人男性，检查高中毕业后四年收入超过2万美元的概率。它依赖控制可观察变量后的选择假设，不能继承主结果的断点因果解释，也不能从低收入直接确认人人在读大学。正文有两处概括偏宽：前两年超过门槛者称不足1%，表列0.3%、1.0%；称边际拒录使不足1%者超过收入门槛，表中部分入读系数绝对值为0.012，即1.2个百分点。我们保留表值，将这张表视作较弱的机制线索。&lt;/p&gt;
+&lt;p&gt;表3显示，次于旗舰的五所州立大学人均支出平均约低6%，入学SAT差65–90分；724页正文写65–100分，与表格及717页略有差异。小的支出差异使作者怀疑单靠资源总量难以解释收入溢价，但学校同伴、人力资本、专业选择、毕业与文凭信号并未被分别识别。不能据此断言“全部是牌子”或“全部是教学”。&lt;/p&gt;
+&lt;h4&gt;对本项目的启发与边界&lt;/h4&gt;
+&lt;p&gt;我们的判断是：院校门槛可以帮助识别学校带来的增量，但政策研究必须同时回答比较对象的替代去向、谁因门槛改变入读、是否跨地区流动，以及成本和非收入结果怎样变化。本篇主结果限于一所匿名美国州立大学、特定历史队列、白人男性和录取边缘；不证明女性没有回报，不适用于所有分数段，也不能直接推广到中国高校。&lt;/p&gt;
+&lt;p&gt;下一步可检验的设想，是将中国院校录取线与长期收入、专业、毕业、跨省就业相连，分清跨线、录取和入读的效果，并报告窗口、缺失与替代院校分布。当前论文没有提供这些中国结果。&lt;/p&gt;
+&lt;h4&gt;证据定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;论断&lt;/th&gt;&lt;th&gt;原刊页码及位置&lt;/th&gt;&lt;th&gt;性质&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;版本、研究对象、约20%的概括&lt;/td&gt;&lt;td&gt;717页摘要；724页结论&lt;/td&gt;&lt;td&gt;作者概括，适用范围受限&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;12,189名申请者、8,424名有收入记录者&lt;/td&gt;&lt;td&gt;718页第II.A节&lt;/td&gt;&lt;td&gt;样本描述&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;正收入连续四季、残差处理、重建规则&lt;/td&gt;&lt;td&gt;719–720页公式1–2、第III节&lt;/td&gt;&lt;td&gt;变量与方法&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;入读概率与收入跳跃&lt;/td&gt;&lt;td&gt;721页图1–2；722页表1&lt;/td&gt;&lt;td&gt;模糊断点及工具变量估计&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;后一批申请者的早期收入&lt;/td&gt;&lt;td&gt;723页表2及表注&lt;/td&gt;&lt;td&gt;不同队列、依赖可观察选择的辅助分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;支出与SAT差异，机制未分解&lt;/td&gt;&lt;td&gt;723–724页第VI节、表3&lt;/td&gt;&lt;td&gt;描述与作者解释&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://direct.mit.edu/rest/article/91/4/717-724/57812&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊页面&lt;/a&gt; · &lt;a href=&quot;https://hceconomics.uchicago.edu/sites/default/files/events/Hoekstra_2009_REStat_v91_n4.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;芝加哥大学保存的正式期刊版&lt;/a&gt;&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>教育回报认知会改变继续升学的选择吗？</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-jensen-2010-perceived-returns</link>
