@@ -6,7 +6,55 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 21 Nov 2026 07:21:06 GMT</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 01:11:09 GMT</lastBuildDate>
+<item>
+<title>区分学生自选择与名校回报</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-048</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:bib-048:89bec935bbbe76b798ef91095716c73dd669022188d22b6ffc708f7bf232f965:2026-11-22T01:11:09.100Z</guid>
+<pubDate>Sun, 22 Nov 2026 01:11:09 GMT</pubDate>
+<description>区分学生自选择与名校回报 · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-22T01:11:09.100Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-048&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;比较名校回报，得先看看学生原来有哪些选择&lt;/h3&gt;
+&lt;p&gt;两所大学的毕业生收入不同，有多少是学校带来的？昨天的精读利用一所美国大学的录取门槛，研究刚好跨线与刚好未跨线者。今天读的Dale与Krueger（2002），换了一种办法：看看申请和录取经历相近的学生，最终去了不同学校，后来收入怎样。&lt;/p&gt;
+&lt;p&gt;这个思路来自一个朴素的疑问。大学招生看个人成绩，也看推荐信、经历和表现。研究者通常只有一部分资料，学校却可能早已挑出了更有发展潜力的人。如果不考虑这种挑选，就容易把学生原有的优势都记在学校名下。&lt;/p&gt;
+&lt;p&gt;作者用到一批1976年入学、来自30所美国大学的学生，主分析观察14,238名在1995年全年全职工作者。调查既问收入，也回问当年申请过哪些学校、被哪些学校录取。研究者把学校选择范围和录取结果相近的人归为一组，再看他们最终就读学校的选择性与收入有什么关系。这里的选择性主要用学校新生的平均SAT衡量，不能理解成每名学生自己的考试成绩。&lt;/p&gt;
+&lt;p&gt;常规比较中，学校平均SAT高100分，收入差约为0.076个对数点，作者近似表述为7.6%。可在申请、录取组合相近的学生之间比较时，这种关系明显减弱。另一种控制申请学校平均SAT及申请数量的模型，也没有检出清晰的正向关系。用另一套较广泛的美国追踪数据分析，变化方向相似，不过估计更不精确。&lt;/p&gt;
+&lt;p&gt;读到这里，很容易得到一句顺口的结论：“名校没用，靠的都是个人。”论文没有支持这么宽的说法。它检验的是特定年代、特定样本中，以学校平均SAT表示的选择性与成年收入的关系。没有检出差异，不等于证明差异精确为零，更不等于学习资源、专业、同学和工作机会都无关紧要。&lt;/p&gt;
+&lt;p&gt;论文还留下了值得注意的例外。模型显示，预测家庭收入较低的学生，可能从较高选择性的学校获得更多收入收益；学校净学费与后来收入也仍有正向关系。这些结果带着各自的假设，不能变成“家庭越穷就越该不计成本上贵学校”的建议。净学费用的是学校平均值，并非每家真正支付的钱，家庭财富等因素也可能没有控制干净。&lt;/p&gt;
+&lt;p&gt;还有一个更根本的限制：最终择校并不随机。即使两个人面对相近的录取机会，一个可能因奖学金选择另一所学校，一个可能为了专业或地点作决定。这些原因也可能影响后来的收入。作者明确承认，如果学生按自己的比较优势择校，模型就不能简单解释为一所学校对平均学生的因果作用。&lt;/p&gt;
+&lt;p&gt;所以，它与昨天的门槛研究可以放在一起理解。门槛研究回答某条录取线附近、因门槛改变去向者的结果；申请组合研究则依靠对选择过程的假设，比较更广的一批学生。对象和问题不同，结论有差异并不奇怪。&lt;/p&gt;
+&lt;p&gt;对高考讨论而言，这篇论文提醒我们，多问一步：学生实际能去哪里，为什么选择这一所？志愿组合还包含家庭掌握的信息、可承担的费用和愿意冒的风险。要判断大学给学生增加了什么，得尽量把这些条件放回比较之中，再考察专业、长期就业以及收入之外的生活，而不是只看学校标签。&lt;/p&gt;
+&lt;p&gt;本文依据2002年正式版1491–1527页，核心数字见1507页表III，家庭差异见1519页表VII。&lt;a href=&quot;https://academic.oup.com/qje/article-abstract/117/4/1491/1876022&quot; rel=&quot;noopener noreferrer&quot;&gt;原论文信息&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;名校回报里，有多少原本就属于学生？&lt;/h3&gt;
+&lt;p&gt;Stacy Berg Dale、Alan B. Krueger（2002），*Estimating the Payoff to Attending a More Selective College: An Application of Selection on Observables and Unobservables*，The Quarterly Journal of Economics，117(4)：1491–1527，2002年11月。DOI：10.1162/003355302320935089。&lt;/p&gt;
+&lt;p&gt;本次读完正式期刊版1491–1527页，包括模型、脚注、图I、表I–VIII、附录1及参考文献；文件末另有版权标记页。逐表核对负号、单位、列号及样本量。1999年NBER工作稿是同一研究的早期版本，未以它替代本次正式版，也未另计一次阅读。未取得微观数据或复现代码。&lt;/p&gt;
+&lt;h4&gt;问题与文献位置&lt;/h4&gt;
+&lt;p&gt;高选择性学校可能提高学生能力或提供网络，也可能只是录取了原本就更有发展潜力的人。仅控制个人SAT、家庭收入等观察指标，未必能排除招生人员看到、研究者看不到的动机、成熟度或潜力。作者把申请及录取结果视为这些信息的间接记录，尝试将学校选择与学生原有特征分开（1491–1500页）。&lt;/p&gt;
+&lt;p&gt;这与上篇Hoekstra（2009）形成方法上的参照。后者在一所旗舰州立大学的分数门槛附近，用录取和入读概率的跳跃估计局部效果；本篇在多所学校、不同历史队列中比较申请组合相似者，并依靠控制选择的假设。两者的学校、学生、处理指标和识别来源都不同，不能直接据一篇宣布另一篇被推翻。&lt;/p&gt;
+&lt;h4&gt;两套数据与测量&lt;/h4&gt;
+&lt;p&gt;College and Beyond（C&amp;amp;B）记录1951、1976、1989年入学者，本篇采用1976队列。34校记录中排除4所历史黑人大学后，分析涉及30校。调查约在1995–1997年实施，响应率约80%；收入取1995年税前年收入。主分析14,238人，均报告1995全年全职工作；不是全部入学者，也不是仅限毕业者。按25分学校平均SAT区间匹配后，有6,335人进入匹配样本（1500–1507页）。&lt;/p&gt;
+&lt;p&gt;C&amp;amp;B收入原为十档：多数档用区间中点转换，最高档借人口普查推算，之后取对数。这不是未经加工的行政工资记录。家庭收入因缺失较多，以父母职业和教育预测对数收入，不能把预测值当作逐户实测。申请与录取经历主要在多年后回忆，最多记录就读学校之外四所申请学校；只申请一所学校者不进入匹配组。30校以较高选择性院校为主，抽样权重使其代表这些学校的学生，不能使它成为全国样本（1501–1506页）。&lt;/p&gt;
+&lt;p&gt;第二套NLS-72采用1972年10月进入四年制大学、1985年收入超过5,000美元的2,127人，不要求全年全职，因为调查未收集该年完整工作状态。申请问题在1973年即问，较少受二十年后回忆偏差影响；但收入观察年龄约31岁，早于C&amp;amp;B约37岁，工作筛选也不同（1515–1517页）。&lt;/p&gt;
+&lt;h4&gt;方法与关键假设&lt;/h4&gt;
+&lt;p&gt;“匹配申请者模型”将申请学校及接受、拒绝的组合相近者归组，再比较最终就读学校。主规格将学校平均SAT落在相同25分区间视作相近，共有1,232个组别虚拟变量。表I的15名学生仅为匹配步骤的假想示例；图I只展示至少15人的常见组，涉及3,038人，不是所有匹配样本（1502–1507页）。&lt;/p&gt;
+&lt;p&gt;这种做法要求招生决定足以概括影响收入的潜在特征，且在控制这些信息后，最终择校不再与未观察能力和收入扰动系统相关。作者自己指出，奖助学金、个人偏好以及学生按自身比较优势择校，都可能破坏这一条件；在异质回报下，估计甚至不能解释为平均学生的因果效果。匹配不是随机分配（1495–1500、1524页）。&lt;/p&gt;
+&lt;p&gt;“自我揭示模型”另控制所申请学校的平均SAT与申请数量，假设申请行为能反映未观察潜力，剩余误差与就读学校指标不相关。它保留更多样本，却不能自动排除家庭信息、可负担性或被拒原因的差异。两种模型均不是录取线断点或随机试验，因此没有本篇可直接报告的ITT或入读者LATE；不能套用上篇的处理效果口径。&lt;/p&gt;
+&lt;h4&gt;主结果：先控制谁，再比较什么&lt;/h4&gt;
+&lt;p&gt;表III（1507页）结果为对数年收入，学校平均SAT以100分为单位。估计采用加权最小二乘，C&amp;amp;B标准误允许同一就读学校内相关。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;表III列号与规格&lt;/th&gt;&lt;th&gt;学校平均SAT系数&lt;/th&gt;&lt;th&gt;标准误&lt;/th&gt;&lt;th&gt;样本量&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;1：全样本，常规背景控制&lt;/td&gt;&lt;td&gt;0.076&lt;/td&gt;&lt;td&gt;0.016&lt;/td&gt;&lt;td&gt;14,238&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;2：仅匹配样本，未加组别控制&lt;/td&gt;&lt;td&gt;0.082&lt;/td&gt;&lt;td&gt;0.014&lt;/td&gt;&lt;td&gt;6,335&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;3：25分区间匹配组控制&lt;/td&gt;&lt;td&gt;−0.016&lt;/td&gt;&lt;td&gt;0.022&lt;/td&gt;&lt;td&gt;6,335&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4：更精细的“精确匹配”&lt;/td&gt;&lt;td&gt;−0.106&lt;/td&gt;&lt;td&gt;0.036&lt;/td&gt;&lt;td&gt;2,330&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;5：按Barron’s等级匹配&lt;/td&gt;&lt;td&gt;0.004&lt;/td&gt;&lt;td&gt;0.016&lt;/td&gt;&lt;td&gt;9,202&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;6：自我揭示模型&lt;/td&gt;&lt;td&gt;−0.001&lt;/td&gt;&lt;td&gt;0.018&lt;/td&gt;&lt;td&gt;14,238&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;第2、3列在同一批6,335人中，系数从0.082降为−0.016，提示变化不只来自换了样本。第3、5、6列未检出正向回报，不等于证明精确为零；第4列显著为负，也不能脱离择校假设解释为高选择性大学会损害收入。表中单位是“学校平均SAT每高100分对应多少对数收入差”，不是个人多考100分的收入回报，也不是录取概率的百分点。&lt;/p&gt;
+&lt;p&gt;1510页表IV的替代控制并非全都使系数归零：若只控制“申请但未就读学校的最高SAT”，就读学校系数仍为0.042（SE 0.013，N=9,358）；只控制被拒学校平均SAT时为0.052（0.015，N=3,805）。不能把核心规格的结果扩大成所有控制方式都相同。1511页称后者为“最高SAT”，表IV第7行却列“平均SAT”，本文按表的行名记录，并保留差异。&lt;/p&gt;
+&lt;p&gt;NLS-72的表VI（1517页）提供另一组对照：学校SAT系数由基础模型的0.051（0.010）降为自我揭示模型的0.013（0.023），N均为2,127。后者不精确，未检出差异也不能排除具有实际意义的正回报。它是另一套有条件观察比较，不是独立随机验证。&lt;/p&gt;
+&lt;h4&gt;异质性与学校其他特征&lt;/h4&gt;
+&lt;p&gt;表VII（1519页）中，学校平均SAT与预测对数家庭收入的交互项为负。自我揭示模型第3列为−0.058（SE 0.018，N=14,238）。表下方给出的学校平均SAT相差200分的模型预测差异，在预测家庭收入底部十分位为0.081对数点，中位数为−0.008；匹配模型的对应底部十分位数值则为0.041。低收入者可能受益更多，是模型内的异质性证据，不是收入组随机分配；这些边际预测未单列标准误，不能自行宣布每个群体的效果都显著。&lt;/p&gt;
+&lt;p&gt;平均SAT也不等于学校所有质量。表VIII（1521页）使用学校层面的净学费：学费减平均资助，并以1970、1980年数据插值得到1976年值，不是每位学生实际支付的价格。对数净学费系数，匹配模型第3列为0.052（0.022），自我揭示第5列为0.058（0.018）；它们是对数—对数关系的弹性。作者按特定工资路径、四年大学及退休假设换算出约13%–15%的实际内部回报率，不能把0.058读成统一5.8%的投资回报，也不能当成当前家庭的择校预算建议（1520–1522页）。&lt;/p&gt;
+&lt;p&gt;作者承认净学费可能捕捉未充分控制的家庭财富；人均支出结果也较不精确。因此，本文的结论不能概括成“学校不重要”。学校身份虚拟变量在控制选择后仍联合显著，收入与教育资源、学校类型或其他未观测差异究竟怎样相连，尚未完全分解（1518、1520–1524页）。&lt;/p&gt;
+&lt;h4&gt;局限与本项目的判断&lt;/h4&gt;
+&lt;p&gt;作者的稳健性检查有价值，但没有消除全部选择问题。表V（1513页）显示，在匹配组内，个人SAT越高者仍更倾向于选择录取自己的最有选择性学校：每100分对应概率系数0.020（SE 0.005）。这不能直接观测未观察能力，却提醒我们最终择校仍非随机。学校SAT测量误差会在组内比较中放大，作者的衰减校正依赖经典测量误差假设，也不是全面排除偏误（1514–1515页）。&lt;/p&gt;
+&lt;p&gt;我们的判断是，本篇有力提醒研究者：被录取或未录取的机会集合本身包含收入相关信息，普通毕业生均值差不足以衡量学校增值。它没有证明所有学生去哪里都一样，也没有证明低收入者、女性或所有学校类型具有同一个回报。&lt;/p&gt;
+&lt;p&gt;若用于中国高考研究，应检验志愿组合和可选院校是否也反映信息、预算与风险承受，而不只是能力；保留专业、批次、调剂与替代去向，再同录取门槛设计相互参照。这是待检验的研究设想，本篇没有提供中国因果结果。长期全职收入之外的就业参与、兴趣、健康及非收入收益也需要单独研究。&lt;/p&gt;
+&lt;h4&gt;证据定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;原刊页码与位置&lt;/th&gt;&lt;th&gt;证据性质&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;两种选择校正及非随机择校边界&lt;/td&gt;&lt;td&gt;1495–1500页，公式1–3；1524页&lt;/td&gt;&lt;td&gt;模型与识别假设&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;两套样本、收入与回忆信息&lt;/td&gt;&lt;td&gt;1500–1506页，表II；1515–1517页&lt;/td&gt;&lt;td&gt;数据与测量&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;主要SAT系数&lt;/td&gt;&lt;td&gt;1507页表III；1510页表IV；1517页表VI&lt;/td&gt;&lt;td&gt;条件回归比较&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;家庭收入交互与预测差异&lt;/td&gt;&lt;td&gt;1519页表VII&lt;/td&gt;&lt;td&gt;非随机异质性分析&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;净学费与回报率换算&lt;/td&gt;&lt;td&gt;1520–1522页，表VIII及注19–23&lt;/td&gt;&lt;td&gt;学校层面相关与假设性计算&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;学校及测量范围&lt;/td&gt;&lt;td&gt;1525页附录1&lt;/td&gt;&lt;td&gt;30校清单、1978年SAT及1976年净学费&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://academic.oup.com/qje/article-abstract/117/4/1491/1876022&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊书目&lt;/a&gt; · &lt;a href=&quot;https://ux1.eiu.edu/~lsghent/dalekrueger.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;东伊利诺伊大学教学网站保存的正式版&lt;/a&gt; · &lt;a href=&quot;https://www.nber.org/papers/w7322&quot; rel=&quot;noopener noreferrer&quot;&gt;1999年NBER工作稿记录&lt;/a&gt;&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>进入州立旗舰大学对收入的影响：录取门槛的证据</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-hoekstra-2009-flagship-earnings</link>
