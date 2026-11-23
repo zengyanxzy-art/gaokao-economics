@@ -6,7 +6,58 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 22 Nov 2026 01:11:09 GMT</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 01:10:22 GMT</lastBuildDate>
+<item>
+<title>即时接受机制在什么条件下能改善择校机会？</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-abdulkadiroglu-che-yasuda-2011-boston</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:abdulkadiroglu-che-yasuda-2011-boston:21d6de9d8edb2eb1e1c70791a06f5b6e69b01ad3342d57046817e51a87c91848:2026-11-23T01:10:22.789Z</guid>
+<pubDate>Mon, 23 Nov 2026 01:10:22 GMT</pubDate>
+<description>即时接受机制在什么条件下能改善择校机会？ · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-23T01:10:22.789Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-abdulkadiroglu-che-yasuda-2011-boston&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;人人都想进同一所学校，规则怎样安排机会？&lt;/h3&gt;
+&lt;p&gt;如果大家都把同一所学校排第一，第二、第三志愿也相同，填报表还漏掉了什么信息？它没有告诉我们，每个人有多在意第一所学校，愿不愿意为稳一点的第二选择放弃一些机会。&lt;/p&gt;
+&lt;p&gt;Abdulkadiroğlu、Che与Yasuda在2011年的论文中，就从这个问题重新比较两种择校规则。一种是波士顿即时接受机制，每轮录取后就锁定学位；另一种是延迟接受机制，先暂留申请者，后面仍按学校优先序重新比较，直到分配结束。在标准的学生提议规则下，延迟接受机制允许学生诚实地排列学校，不必为了保住第二志愿而先放弃第一志愿。这是一项重要的优点。&lt;/p&gt;
+&lt;p&gt;即时接受机制却会让人权衡：若第一所学校太热门，先报第二所是不是更稳？这种策略负担可能造成不公平。作者并没有否认它，而是问，在特定条件下，这种权衡会不会也透露出学生在乎什么，进而改变机会的分配。&lt;/p&gt;
+&lt;p&gt;论文给了一个三人三校的假想例子。三个人都更喜欢第一所学校，其次第二所，最后第三所。但前两人特别看重第一所，第三人则觉得第二所也相当不错。延迟接受配合对称抽签，让每个人面对同样的入学概率。即时接受的例中均衡里，第三人把第二所放在首位，另外两人继续争第一所。按论文设定的效用数字计算，三个人在抽签前的期望结果都更好。&lt;/p&gt;
+&lt;p&gt;这里改善的是面对随机机会时的期望，不是说抽签结束后人人都满意，也不是收入或学业成绩提高了。这只是给定假设后的数学例子。一般定理还要求学生具有相同学校排序、学校没有固有优先权，并在特定的对称均衡中比较；不能据此宣布某一种规则在任何地方都更好。&lt;/p&gt;
+&lt;p&gt;对不会策略填报的人，结论尤其要小心。策略者绕开热门学校，可能给诚实填报者留下更多第一志愿机会，但第二选择也可能更难进入。论文的六人例子里，有些诚实者因此受益，另一些诚实者反而受损。只统计第一志愿的机会，会漏掉这些差别。&lt;/p&gt;
+&lt;p&gt;学校若有就近优先，情况还会再变。文章在附加条件下说明，没有好学校优先权的学生，可能找到提高某所好学校入学概率的策略。但这仍不等于他们在所有结果上都更好。官方补充证明也讨论了完全信息、严格优先序的另一种环境，那里原有的一名诚实者变为策略者时，其他人会弱受损。模型中的信息和优先权不同，结论就可能不同。&lt;/p&gt;
+&lt;p&gt;因此，这篇论文的价值不是替家长总结一条“应该冒险”或“应该保守”的口诀。它提醒制度研究者，诚实填报、策略负担、进入热门学校的概率和整体福利，需要分别讨论。作者自己也强调，缺乏策略无关性仍是即时接受机制的重要缺点，不能把论文当成恢复旧规则的全面主张。&lt;/p&gt;
+&lt;p&gt;对中国高考而言，还要问：学校按怎样的分数或资格优先序录取？学生对专业、城市和学校的排序是否相同？他们掌握的信息有多大差异？这些条件若不符合模型，结论就不能直接搬来使用。今天读到的是一种帮助比较规则的理论办法，没有得到中国改革的实际效果。&lt;/p&gt;
+&lt;p&gt;本次依据作者公开的12页排版校样及AEA两页补充证明；主文例子见校样4、9页，正式刊页未逐字核对。&lt;a href=&quot;https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399&quot; rel=&quot;noopener noreferrer&quot;&gt;原论文信息&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;诚实填报与抽签前福利，为什么可能存在取舍？&lt;/h3&gt;
+&lt;p&gt;Atila Abdulkadiroğlu、Yeon-Koo Che、Yosuke Yasuda（2011），*Resolving Conflicting Preferences in School Choice: The “Boston Mechanism” Reconsidered*，American Economic Review，101(1)：399–410。正式 DOI：10.1257/aer.101.1.399。&lt;/p&gt;
+&lt;p&gt;本次读完作者在杜克大学主页公开的12页排版校样，以及AEA官网两页补充证明。校样有作者查询标记，首页仍印占位页码范围“1–14”和占位DOI，实际文件为12页，页脚排版时间为2010年11月8日。这些不是正式发表日期或正式DOI。以下主文定位一律使用校样页1–12，不冒称已核对正式399–410页的版面；正式卷期与DOI依据AEA书目。补充材料独立标页1–2。未把2009年早期工作稿另计一次阅读。&lt;/p&gt;
+&lt;h4&gt;研究问题与位置&lt;/h4&gt;
+&lt;p&gt;延迟接受机制（DA）的长处是，在本文讨论的标准学生提议规则下，按真实学校顺序填报是占优策略。波士顿即时接受机制（BOS）则会让首轮录取成为最终结果，冲第一志愿可能失去第二志愿的机会，因此有策略填报问题。&lt;/p&gt;
+&lt;p&gt;作者问的是另一个维度：若大家都喜欢同一批学校，学校优先权又不足以完全区分申请者，仅保障真实排序是否足以获得较好的抽签前分配？相同的排序，可能隐藏很不相同的喜欢程度。本文把这种偏好强度纳入福利比较，而没有否认BOS不具备策略无关性（校样1–6页）。&lt;/p&gt;
+&lt;p&gt;这是理论论文，不是录取改革的因果评估。没有本篇估计的ITT、参与者效果、标准误或真实学生处理样本。引言所引波士顿志愿集中度只是背景：2007–2008年九年级26校中8校第一志愿超额；假设第一志愿均匀随机并生成100组志愿，平均约22.21校超额。它说明真实志愿可能相关，不验证下文全部模型假设或福利结论（校样2–3页及注2）。&lt;/p&gt;
+&lt;h4&gt;比较对象与假设&lt;/h4&gt;
+&lt;p&gt;基准模型有至少两所学校和两名学生，各校容量为qₐ，主文证明先设总容量等于学生数n。所有学生具有同一严格学校排序，但各自知道自己的vNM效用，即对结果及其概率的偏好强度；他们不知道别人的具体偏好，只知道类型分布。效用类型取自有限集合，学校没有固有优先权，平局以事前对称方式处理（校样6–7页）。&lt;/p&gt;
+&lt;p&gt;BOS结论针对对称贝叶斯均衡。“对称”指同一效用类型采用同一策略规则，可以混合填报，不是要求所有学生填相同志愿。DA比较基准则是真实填报的占优策略均衡。类型分布、信息与对称性都是论证的一部分；不能把结果扩大到任意相关信念、任意非对称均衡或所有中国高考录取环境。&lt;/p&gt;
+&lt;p&gt;这里“事前”主要指随机分配揭晓之前的期望福利。定理还逐个比较已知自身偏好的类型，在他人信息未揭晓时的收益；它不等于中国志愿制度中“考试前填报”的时间分类。事后每个人拿到具体学位，和事前每个人面对怎样的概率分布，是不同比较。&lt;/p&gt;
+&lt;h4&gt;三名学生的例子：学校排序相同，不代表强度相同&lt;/h4&gt;
+&lt;p&gt;校样4页给出三校各一个学位、三名学生的效用表，所有人均偏好s₁、其次s₂、最后s₃。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;学校&lt;/th&gt;&lt;th&gt;学生1&lt;/th&gt;&lt;th&gt;学生2&lt;/th&gt;&lt;th&gt;学生3&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;s₁&lt;/td&gt;&lt;td&gt;0.8&lt;/td&gt;&lt;td&gt;0.8&lt;/td&gt;&lt;td&gt;0.6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;s₂&lt;/td&gt;&lt;td&gt;0.2&lt;/td&gt;&lt;td&gt;0.2&lt;/td&gt;&lt;td&gt;0.4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;s₃&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;DA下，各人到每校的概率都是三分之一，每人的期望效用均为三分之一。BOS的例中均衡是学生1、2真实填报，学生3把s₂列第一。学生3确定得到s₂，前两人在s₁、s₃之间各半概率，因此每人期望效用都是0.4。&lt;/p&gt;
+&lt;p&gt;这不是调查收入或满意度提高了多少，而是给定假想效用后的数学比较。相对于自己在另一规则下的期望，三人都改善；不能跨人比较“0.4的幸福”大小，也不能说每种抽签实现后人人都更好。该引言例子为便于展示将彼此偏好设为已知，但抽签尚未实现；下面的一般结果采用偏好不完全信息。&lt;/p&gt;
+&lt;h4&gt;定理1的关键：均衡可提供一个DA概率基准&lt;/h4&gt;
+&lt;p&gt;校样7页公式1说明，共同排序和对称抽签下，DA分到学校sₐ的概率为qₐ/n。BOS对称均衡中，按类型概率f(v)加总各类型策略的入学概率，再乘n，必须等于该校容量qₐ。&lt;/p&gt;
+&lt;p&gt;因而，任一类型若按总体类型比例，随机模仿均衡中各种类型的策略，就能得到qₐ/n这一DA概率分布。自己的均衡策略是最优回应，收益至少不低于这种可行偏离策略。这给出校样8页定理1：在基准假设下，BOS任何对称均衡中，每种类型的期望效用均弱不低于DA。&lt;/p&gt;
+&lt;p&gt;“弱不低于”不保证所有环境、所有类型都严格提高。这个保证也不是随意或均匀随机填一张志愿表就能得到的；混合权重来自既定均衡及类型分布。证明的作用是建立比较，不是向现实家庭提供可直接实施的填报指南。&lt;/p&gt;
+&lt;h4&gt;不会策略填报的人，并非人人受益&lt;/h4&gt;
+&lt;p&gt;校样9页定理2区分两种结论：如果策略者确实以正概率改变排序，诚实填报者在某个顶部学校集合内的机会可改善；若某一效用类型的策略者在均衡中也选择真实排序，则同类型诚实填报者的期望福利弱不低于DA。这不是所有诚实填报者都获得一阶随机占优的完整学校分布，更不是所有人福利都提高。&lt;/p&gt;
+&lt;p&gt;同页将前例扩成六名学生、各校两席，每种效用类型各有一名策略者和一名诚实填报者。只有第三类策略者将s₂列第一，其余五人的分配概率为（0.4，0.2，0.4）。本笔记按原例重算：诚实的第一、二类期望效用为0.36，高于DA的三分之一；诚实的第三类则为0.32，低于三分之一。顶部学校概率提高，仍可能伴随重要第二选择的损失，不能只看第一志愿机会。&lt;/p&gt;
+&lt;p&gt;官方补充证明提供另一环境的对照：共同排序、完全信息、学校严格优先权下，一名诚实者变成策略者，自己弱改善、其他人弱受损；若自己严格改善，则有人严格受损。证明通过提高该人在调整后优先序中的位置，以及有限学生间的换位链展开。它与基准模型的信息、优先权假设不同，不能说两组结果互相矛盾。校样脚注称其为附录命题A，官网补充文件标为命题1（补充1–2页）。&lt;/p&gt;
+&lt;h4&gt;就近优先：机会结论不等于整体福利结论&lt;/h4&gt;
+&lt;p&gt;校样10–11页加入就近优先权。定理3另要求n大于最热门两校容量之和，且每校具有就近优先者的人数小于该校容量。对只在第三名以后学校有优先权、或完全没有优先权的学生，存在一种策略，使其进入前两校中某一所的概率严格高于DA。&lt;/p&gt;
+&lt;p&gt;证明分两种情况：若所有人首报s₁，改首报s₂可占得机会；若有人以正概率不首报s₁，首报s₁可利用其腾出的竞争空间。这个“存在策略改善某校概率”的结论，不保证相关群体在均衡中进入两所好校的概率都更高，也不自动证明其总体期望福利更高。文中借2009稿讨论容量等条件的扩展，本次未将该早期稿全部追读。&lt;/p&gt;
+&lt;h4&gt;作者结论与本项目判断&lt;/h4&gt;
+&lt;p&gt;作者明确没有主张全面恢复或推广BOS。策略无关性依然重要，其缺失可能使BOS无法接受；论文要补充的是另一侧的福利代价，需要进一步用理论、计算、经验和实验量化（校样6、11–12页）。&lt;/p&gt;
+&lt;p&gt;我们的判断是：评价录取规则，应同时说清偏好排序、偏好强度、成绩或其他优先权、信息结构，以及比较的是哪一个阶段的哪一种结果。中国高考若有接近严格的分数优先序，或学生专业偏好显著不同，就不能直接套用基准定理。对吴、钟待读研究，本文目前只提供理论问题的衔接，不能据未读全文对其经验结论作实质对读。&lt;/p&gt;
+&lt;p&gt;可检验的下一步，是在真实制度下同时考察策略负担、信息差异、备选机会与入学后的结果；它属于本项目设想，论文没有给出中国改革的平均因果效果。把诚实填报、第一志愿录取率和长期福利分别测量，比只比较某一指标更有帮助。&lt;/p&gt;
+&lt;h4&gt;证据定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;论断&lt;/th&gt;&lt;th&gt;实际阅读定位&lt;/th&gt;&lt;th&gt;性质&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;校样版本、占位信息&lt;/td&gt;&lt;td&gt;校样1页及各页页脚；AEA书目&lt;/td&gt;&lt;td&gt;版本核验，不映射正式刊页&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;三人效用与概率&lt;/td&gt;&lt;td&gt;校样3–4页，无编号效用表&lt;/td&gt;&lt;td&gt;理论示例&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;基准条件与弱福利比较&lt;/td&gt;&lt;td&gt;校样6–8页，公式1–3、定理1&lt;/td&gt;&lt;td&gt;对称均衡下的数学推导&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;诚实者的不同结果&lt;/td&gt;&lt;td&gt;校样9–10页，六人例与定理2&lt;/td&gt;&lt;td&gt;条件性结论及反例&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;就近优先与机会&lt;/td&gt;&lt;td&gt;校样10–11页，定理3&lt;/td&gt;&lt;td&gt;附加假设下的概率比较&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;完全信息、严格优先权&lt;/td&gt;&lt;td&gt;官方补充1–2页，命题1&lt;/td&gt;&lt;td&gt;另一模型的证明&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.aeaweb.org/articles?id=10.1257/aer.101.1.399&quot; rel=&quot;noopener noreferrer&quot;&gt;AEA正式书目&lt;/a&gt; · &lt;a href=&quot;https://people.duke.edu/~aa88/articles/AER_BostonRevisited.pdf&quot; rel=&quot;noopener noreferrer&quot;&gt;作者公开校样&lt;/a&gt; · &lt;a href=&quot;https://www.aeaweb.org/articles/materials/1042&quot; rel=&quot;noopener noreferrer&quot;&gt;官方补充证明&lt;/a&gt;&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>区分学生自选择与名校回报</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-bib-048</link>
