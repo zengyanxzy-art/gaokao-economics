@@ -6,7 +6,55 @@
 <description>通俗讲解与完整研究笔记，按笔记更新时间推送。</description>
 <language>zh-CN</language>
 <atom:link href="https://zengyanxzy-art.github.io/gaokao-economics/reading.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 01:10:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 01:04:52 GMT</lastBuildDate>
+<item>
+<title>选考科目分数怎样比较与校准？</title>
+<link>https://zengyanxzy-art.github.io/gaokao-economics/#read-wen-2020-elective-score-adjustment</link>
+<guid isPermaLink="false">urn:gaokao-economics:reading:wen-2020-elective-score-adjustment:6edd17001a9a64c9cfec2b80d1a81702d2c2de8c2e411a6bdd99b30b6b429d0c:2026-11-25T01:04:52.706Z</guid>
+<pubDate>Wed, 25 Nov 2026 01:04:52 GMT</pubDate>
+<description>选考科目分数怎样比较与校准？ · 通俗讲解与完整研究笔记。</description>
+<content:encoded>&lt;p&gt;笔记更新于 2026-11-25T01:04:52.706Z。&lt;a href=&quot;https://zengyanxzy-art.github.io/gaokao-economics/#read-wen-2020-elective-score-adjustment&quot;&gt;在网站阅读&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;通俗讲解&lt;/h2&gt;&lt;h3&gt;都是前百分之十，为什么分数未必能直接比较？&lt;/h3&gt;
+&lt;p&gt;两个学生选了不同科目，都考进本组选科者的前百分之十，能不能认为他们表现相当？如果两组人的基础不同，这个比较就没那么简单。反过来，直接比较原始分也有问题：一张试卷容易些，另一张难些，同样的分数可能代表不同表现。&lt;/p&gt;
+&lt;p&gt;温忠麟在2020年的《高考选考科目定级计分和校准的若干问题》中，讨论的正是这个难题。这是一篇计分方法文章，不是录取改革实验；文中比较的是当时若干省份的历史方案，不能把它当作今天各省现行规则的说明。&lt;/p&gt;
+&lt;p&gt;作者认为，固定比例的等级赋分能削弱试卷难度对成绩的影响，却也可能把不同选科群体都压成相近的分布。如果某一群体的整体基础更强，单看组内名次就可能忽略这种差异。不过，判断哪一群体更强，本身需要可靠的参照，不能因为选了某个科目，就直接认定个人能力高低。&lt;/p&gt;
+&lt;p&gt;文章提出，用所有考生都参加的必考科目，帮助确定各选考群体的等级比例。一个例子是：某选科群体中，语文取得A等的占4%，数学取得A等的占10%，取平均后为7%，就建议让该选考科目的A等比例设为7%，而不是统一固定为3%。&lt;/p&gt;
+&lt;p&gt;这不是拿一个学生的语文、数学分数直接替换他的选考分数。必考成绩用来调整群体的等级比例，学生本人仍按照自己在选考科目中的成绩位置定级。两门必考科目取相同权重，也只是文章介绍的一种简化方案。&lt;/p&gt;
+&lt;p&gt;作者还给出一个更容易解释的变式，称为“只加不减”。这里最容易弄错的是计算方法：应比较“达到某等级及以上”的累计比例，取两者较大值，再算回每一等级各占多少。如果把每个单独等级的比例都分别取大，总和就可能超过百分之百，规则便算不通了。原文表3的例子，按累计比例计算能得到总和百分之百；错误地逐级取大，则会得到百分之一百零八。&lt;/p&gt;
+&lt;p&gt;这项复算说明方案在算术上可以成立，但还没有回答所有公平问题。“等级机会不收缩”不等于每个人的总分、位次和录取机会都会提高。高考是竞争性分配，一组的成绩变化，也可能改变其他人的相对位置。&lt;/p&gt;
+&lt;p&gt;更重要的是，共同参加必考，不代表必考成绩就天然适合衡量所有选科优势。有人可能数学强、语言弱，也有人在某门选考科目中有专长。群体之间的课程训练、选科限制和家庭资源也可能不同。用必考表现作参照，需要检验这些差异会不会使校准产生新的偏差，不能只凭人数多就放心。&lt;/p&gt;
+&lt;p&gt;文章对回归分析的讨论也值得记住：一个指标不必造成另一个指标，才有资格用于预测；但能够预测，也不证明它具有因果作用。大样本可以减少部分随机误差，不能自动修正错误的模型或不合适的参照。&lt;/p&gt;
+&lt;p&gt;因此，这篇论文提供了一种拆解计分难题的方法：先区分试卷难度和群体组成，再说明总分究竟希望比较什么。至于哪种校准更合理，还需要考生数据、边界处理和后续结果来检验。它没有给当前考生一条“选哪科就能赚分”的口诀，也没有证明某种办法能让所有人同时受益。&lt;/p&gt;
+&lt;p&gt;本文依据2020年正式版34–42页，重点核对39页表3。&lt;a href=&quot;https://xbjk.ecnu.edu.cn/CN/10.16382/j.cnki.1000-5560.2020.06.003&quot; rel=&quot;noopener noreferrer&quot;&gt;原论文信息&lt;/a&gt;&lt;/p&gt;&lt;h2&gt;研究笔记&lt;/h2&gt;&lt;h3&gt;选考分数可比，不能只看各科排位&lt;/h3&gt;
+&lt;p&gt;温忠麟（2020），《高考选考科目定级计分和校准的若干问题》，《华东师范大学学报（教育科学版）》38(6)：34–42，DOI：10.16382/j.cnki.1000-5560.2020.06.003。读完期刊官网下载的9页正式版，物理页1–9对应原刊34–42页，核对表1–3、图1和算式。本文是教育测量方法讨论，未提供新采集的考生微观样本、随机试验或政策因果估计。&lt;/p&gt;
+&lt;h4&gt;问题与文献位置&lt;/h4&gt;
+&lt;p&gt;当不同学生自选不同科目时，科目原始分均值同时受试题难度和参加者组成影响。作者认为，直接比较原始分不能排除难度差异，而将各科统一成同一分布的标准分或比例等级分，又可能抹平参加者群体的差异。因此提出，用共同参加的必考科目表现校准各选考科目的等级比例（34–35、38–39页）。&lt;/p&gt;
+&lt;p&gt;这使此前录取机制讨论向前延伸一步：给定分数如何分配学位，与不同选科者的分数怎样形成可比较的排序，是两个问题。本文提供的是对后一个问题的方案与论证，不证明某种录取机制更公平，也没有估计ITT或实际参与者效果。&lt;/p&gt;
+&lt;h4&gt;材料、历史范围与判断边界&lt;/h4&gt;
+&lt;p&gt;作者比较了当时上海、山东、海南及第三批试点中的江苏方案，材料来自政策文件及既有研究。表1明确针对2017年上海；其他方案同样应按文章2020年的历史语境阅读。本文没有核验2026年各省现行办法，也不能据此给当前考生提供具体赋分或选科建议。&lt;/p&gt;
+&lt;p&gt;作者将必考科目表现用作群体能力的参照，但它是测量假设：不同科目所测能力并不完全相同，学生又不是随机选科。共同参加考试，并不自动证明这一参照在各选科群体间具有充分的测量可比性。文章关于物理群体能力较高、赋分导致退出选科及学习动机改变的论述，主要依赖既有材料和机制判断，未在本文中给出新的因果识别。&lt;/p&gt;
+&lt;h4&gt;表格与算式核对&lt;/h4&gt;
+&lt;p&gt;表1（36页）列2017年上海11级比例：两端各5%、中间九级各10%，赋分依次为70、67、64、61、58、55、52、49、46、43、40。原文比较其30分全距与必考科目的150分全距。我们的判断是，全距可以提示尺度差异，但不能仅凭全距确定实际方差、总分贡献或学生努力的因果变化；这些还依赖分布、相关性和合成规则。&lt;/p&gt;
+&lt;p&gt;表2、图1（36页）列山东八级比例为3%、7%、16%、24%、24%、16%、7%、3%，对应区间从91–100依次到21–30。37页用各区间中点加权得到60.5分，这一计算可以复核。但“各等级均值等于区间中点”是示意条件，并非所有实际分布都必须成立。文中用中点两侧人数相同来说明该条件，严格说这还不足以保证均值恰等于中点，仍需两侧偏离幅度也相抵。实际均值接近60.5的判断需要数据，不能将算式当成经验估计。&lt;/p&gt;
+&lt;h4&gt;校准方案怎样操作&lt;/h4&gt;
+&lt;p&gt;38页先按同一等级比例，对全体考生的语文、数学分别定级。对于某一选考群体，再统计其在这两门必考科目各等级中的比例，并取平均，作为该选考科目的新等级比例。例如，物理群体中语文A等占4%、数学A等占10%，平均为7%，就建议让物理科A等占7%，而不是统一固定为3%。随后按该科原始分排序确定切点，再作等级区间内转换。&lt;/p&gt;
+&lt;p&gt;这不是用某个学生自己的语文、数学成绩直接替换他的物理分。两门必考科目用于确定群体层面的等级比例，个人仍按自己在选考科目中的成绩位置定级。等权平均只是文中易解释的简化版本；作者也讨论相关性不同、权重不同的变式。&lt;/p&gt;
+&lt;p&gt;方案的关键前提，是必考表现能够提供选考群体能力的合理参照。我们的判断是，专业优势、训练差异、选科限制和测量误差都可能影响这一前提，不能仅凭群体人数多就视为得到验证。&lt;/p&gt;
+&lt;h4&gt;“只加不减”加在哪里&lt;/h4&gt;
+&lt;p&gt;39页表3给出X科示例。必须对累计比例取较大值，再差分恢复各级比例，不能把各单级比例分别取大后相加。&lt;/p&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;等级&lt;/th&gt;&lt;th&gt;A&lt;/th&gt;&lt;th&gt;B+&lt;/th&gt;&lt;th&gt;B&lt;/th&gt;&lt;th&gt;C+&lt;/th&gt;&lt;th&gt;C&lt;/th&gt;&lt;th&gt;D+&lt;/th&gt;&lt;th&gt;D&lt;/th&gt;&lt;th&gt;E&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;设计累计比例（%）&lt;/td&gt;&lt;td&gt;3&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;74&lt;/td&gt;&lt;td&gt;90&lt;/td&gt;&lt;td&gt;97&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;必考表现累计比例（%）&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;48&lt;/td&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;两者逐项较大值（%）&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;50&lt;/td&gt;&lt;td&gt;76&lt;/td&gt;&lt;td&gt;94&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;td&gt;100&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;差分后的等级比例（%）&lt;/td&gt;&lt;td&gt;5&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;15&lt;/td&gt;&lt;td&gt;24&lt;/td&gt;&lt;td&gt;26&lt;/td&gt;&lt;td&gt;18&lt;/td&gt;&lt;td&gt;6&lt;/td&gt;&lt;td&gt;0&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;复算结果与表3一致，总和100%。若错误地将单级比例分别取最大值，总和会成为108%。这一算术性质支持规则的内部一致性，不等于验证方案的全部公平性。&lt;/p&gt;
+&lt;p&gt;“只加不减”主要描述相对设计表的累计等级机会不收缩。文章未用逐人数据证明转换后的每个人总分、相对位次或录取福利都不会下降。即使某人的等级不降低，也不能据此断言在竞争性录取中无人受损。&lt;/p&gt;
+&lt;h4&gt;预测、等值与因果要分开&lt;/h4&gt;
+&lt;p&gt;40页区分了回归的几种用途：可以用于寻找校准权重，也可以讨论群体均值预测，但不能将一个回归方程直接当作对称的测验等值关系。不存在因果关系，并不意味着不能预测；同样，预测得好也不证明因果关系。&lt;/p&gt;
+&lt;p&gt;作者用身高与体重说明大群体均值的预测误差可能较小，并提出自选物理群体的回归预测值可视为其成绩下限。我们的判断是，这需要额外的选择与模型假设。大样本能减小某些随机误差，不能自动消除系统偏差；非随机选科本身也不推出“预测值必为下限”。这些论断不能当作已经得到微观数据验证的普遍定理。&lt;/p&gt;
+&lt;h4&gt;结论、源内张力与下一步&lt;/h4&gt;
+&lt;p&gt;作者主张，既然需要合成总分，就应利用每年各群体的必考表现校准，而不只在问题出现后给某科固定补分；也承认不同科目本来就难以严格比较，并提出可结合课程标准下的专家判断（41页）。&lt;/p&gt;
+&lt;p&gt;有两处概括需要保留边界。其一，41页结语写第三批比例计分对“差生及少人去选的科目”不利，与前面围绕群体整体能力较高者受损的论述并不完全一致，不能合并成同一个经验结论。其二，作者关于拔尖考生不会吃亏、垫底考生无论怎样都会落榜的推论（40–41页），未在本文中用个体数据验证，我们不将其写成个人结果保证。&lt;/p&gt;
+&lt;p&gt;本项目可进一步检验：必考参照是否跨群体稳定；不同权重、等级切点和边界同分怎样影响个人成绩；校准后选科组成、录取及后续表现怎样改变。这些是待检验设想。本文最有价值的提醒是，试题难度、群体组成与制度中的比较目标应分别说明；提出可操作方案与证明它改善真实机会，仍是两步工作。&lt;/p&gt;
+&lt;h4&gt;证据定位&lt;/h4&gt;
+&lt;div class=&quot;reader-table&quot; tabindex=&quot;0&quot; role=&quot;region&quot; aria-label=&quot;研究结果表，可左右滚动&quot;&gt;&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;内容&lt;/th&gt;&lt;th&gt;原刊页码&lt;/th&gt;&lt;th&gt;证据性质&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;原始分、标准分与群体差异&lt;/td&gt;&lt;td&gt;34–35&lt;/td&gt;&lt;td&gt;测量论证&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;三批试点及等级表&lt;/td&gt;&lt;td&gt;36–38，表1–2、图1&lt;/td&gt;&lt;td&gt;历史方案比较&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;60.5分计算&lt;/td&gt;&lt;td&gt;37&lt;/td&gt;&lt;td&gt;条件性算例&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;4%、10%取平均为7%&lt;/td&gt;&lt;td&gt;38–39&lt;/td&gt;&lt;td&gt;群体校准的假想示例&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;累计取大后差分&lt;/td&gt;&lt;td&gt;39，表3&lt;/td&gt;&lt;td&gt;可复算规则&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;回归用途与个体边界&lt;/td&gt;&lt;td&gt;40–41&lt;/td&gt;&lt;td&gt;方法讨论及作者判断&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;https://xbjk.ecnu.edu.cn/CN/10.16382/j.cnki.1000-5560.2020.06.003&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊正式页面&lt;/a&gt; · &lt;a href=&quot;https://xbjk.ecnu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&amp;amp;id=9347&quot; rel=&quot;noopener noreferrer&quot;&gt;期刊公开全文&lt;/a&gt;&lt;/p&gt;</content:encoded>
+</item>
 <item>
 <title>即时接受机制在什么条件下能改善择校机会？</title>
 <link>https://zengyanxzy-art.github.io/gaokao-economics/#read-abdulkadiroglu-che-yasuda-2011-boston</link>
